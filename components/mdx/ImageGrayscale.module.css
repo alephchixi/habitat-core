@@ -1,0 +1,32 @@
+.figure {
+  margin: var(--space-2xl) 0;
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  border: 1px solid var(--border);
+  background-color: var(--bg-surface);
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: grayscale(100%) contrast(1.1);
+  mix-blend-mode: luminosity;
+  opacity: var(--op-primary);
+  transition: filter var(--duration-normal) ease;
+}
+
+.image:hover {
+  filter: grayscale(0%);
+}
+
+.caption {
+  margin-top: var(--space-xs);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  opacity: var(--op-secondary);
+  text-align: right;
+}

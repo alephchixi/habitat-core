@@ -1,0 +1,41 @@
+[
+  {
+    "id": "workflow-audit-clinic",
+    "title": {
+      "en": "Workshop: Editorial workflow audit clinic",
+      "es": "Taller: Clinica de auditoria de workflow editorial"
+    },
+    "format": {
+      "en": "90-minute session with live schema debugging, policy review, and publish gate simulation.",
+      "es": "Sesion de 90 minutos con debugging de schema en vivo, revision de politicas y simulacion de gate de publicacion."
+    },
+    "materials": [
+      {
+        "en": "content-check script and failing fixtures",
+        "es": "script content-check y fixtures fallidos"
+      },
+      {
+        "en": "Sample bilingual article pair with translation_key",
+        "es": "par de articulos bilingues de muestra con translation_key"
+      },
+      {
+        "en": "Role matrix for admin/editor/reviewer",
+        "es": "matriz de roles para admin/editor/reviewer"
+      }
+    ],
+    "outcome": {
+      "en": "Participants produce a validated draft ready for editorial review with full traceability metadata.",
+      "es": "Participantes producen un borrador validado listo para revision editorial con metadata completa de trazabilidad."
+    },
+    "references": [
+      {
+        "label": "Next.js security headers guide",
+        "url": "https://nextjs.org/docs/app/guides/content-security-policy"
+      },
+      {
+        "label": "OWASP input validation cheat sheet",
+        "url": "https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html"
+      }
+    ]
+  }
+]

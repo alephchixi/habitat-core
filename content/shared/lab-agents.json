@@ -1,0 +1,52 @@
+[
+  {
+    "id": "habitat-editorial-agent-v1",
+    "name": "HABITAT Editorial Agent v1",
+    "role": {
+      "en": "Editorial drafting agent",
+      "es": "Agente de borradores editoriales"
+    },
+    "methodology": {
+      "en": "Generates draft observatory notes and bibliographies from scoped prompts, then routes output through human review before publication.",
+      "es": "Genera borradores de observatorio y bibliografias desde prompts acotados, y enruta la salida a revision humana antes de publicar."
+    },
+    "capabilities": [
+      {
+        "en": "Produce bilingual draft structures with frontmatter aligned to content schema.",
+        "es": "Produce estructuras bilingues de borrador con frontmatter alineado al schema de contenido."
+      },
+      {
+        "en": "Attach source lists and model metadata for traceability.",
+        "es": "Adjunta listas de fuentes y metadata del modelo para trazabilidad."
+      },
+      {
+        "en": "Suggest follow-up references for Library and Resources interlinking.",
+        "es": "Sugiere referencias de seguimiento para interlink con Library y Resources."
+      }
+    ],
+    "limitations": [
+      {
+        "en": "Cannot publish directly; human_review.reviewed=true remains mandatory.",
+        "es": "No puede publicar de forma directa; human_review.reviewed=true sigue siendo obligatorio."
+      },
+      {
+        "en": "Does not guarantee semantic quality of sources beyond structural checks.",
+        "es": "No garantiza calidad semantica de fuentes mas alla de chequeos estructurales."
+      },
+      {
+        "en": "Requires editorial constraints to avoid overgeneralized framing.",
+        "es": "Requiere restricciones editoriales para evitar marcos sobre-generalizados."
+      }
+    ],
+    "artifacts": [
+      {
+        "label": "MMT scripting skill reference",
+        "url": "https://docs.mmt.gg/scripting"
+      },
+      {
+        "label": "OpenAI prompt engineering guide",
+        "url": "https://platform.openai.com/docs/guides/prompt-engineering"
+      }
+    ]
+  }
+]

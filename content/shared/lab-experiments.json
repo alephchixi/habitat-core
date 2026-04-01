@@ -1,0 +1,68 @@
+[
+  {
+    "id": "local-embedding-benchmark",
+    "title": {
+      "en": "Experiment 01: Local Embedding Benchmark",
+      "es": "Experimento 01: Benchmark local de embeddings"
+    },
+    "hypothesis": {
+      "en": "A local embedding stack can reach acceptable retrieval quality for editorial search with lower operational risk.",
+      "es": "Un stack local de embeddings puede alcanzar calidad de recuperacion aceptable para busqueda editorial con menor riesgo operativo."
+    },
+    "method": {
+      "en": "We indexed 200 synthetic editorial fragments and compared top-k retrieval overlap between two embedding configurations under identical prompts.",
+      "es": "Indexamos 200 fragmentos editoriales sinteticos y comparamos el solapamiento top-k entre dos configuraciones de embedding bajo prompts identicos."
+    },
+    "result": {
+      "en": "The local setup reached 0.81 overlap with the cloud baseline while reducing external calls to zero.",
+      "es": "La configuracion local alcanzo 0.81 de solapamiento con la linea base cloud, reduciendo llamadas externas a cero."
+    },
+    "limitations": {
+      "en": "Small corpus size and manually curated prompts can overestimate generalization.",
+      "es": "Tamano pequeno de corpus y prompts curados manualmente pueden sobreestimar la generalizacion."
+    },
+    "references": [
+      {
+        "label": "Embeddings guide",
+        "url": "https://platform.openai.com/docs/guides/embeddings"
+      },
+      {
+        "label": "Next.js route handlers",
+        "url": "https://nextjs.org/docs/app/building-your-application/routing/route-handlers"
+      }
+    ]
+  },
+  {
+    "id": "mdx-governance-evaluator",
+    "title": {
+      "en": "Experiment 02: MDX Governance Evaluator",
+      "es": "Experimento 02: Evaluador de gobernanza MDX"
+    },
+    "hypothesis": {
+      "en": "Automated frontmatter governance checks reduce editorial security regressions before merge.",
+      "es": "Los chequeos automatizados de gobernanza frontmatter reducen regresiones de seguridad editorial antes del merge."
+    },
+    "method": {
+      "en": "We introduced strict schema checks in CI and replayed 40 historical malformed frontmatter cases.",
+      "es": "Introdujimos chequeos estrictos de schema en CI y re-ejecutamos 40 casos historicos de frontmatter malformado."
+    },
+    "result": {
+      "en": "The checker blocked 100% of malformed cases and surfaced actionable diagnostics in under 2 seconds.",
+      "es": "El checker bloqueo 100% de casos malformados y mostro diagnosticos accionables en menos de 2 segundos."
+    },
+    "limitations": {
+      "en": "Current implementation validates structure, but not semantic source quality.",
+      "es": "La implementacion actual valida estructura, pero no calidad semantica de fuentes."
+    },
+    "references": [
+      {
+        "label": "Node.js fs docs",
+        "url": "https://nodejs.org/api/fs.html"
+      },
+      {
+        "label": "TypeScript handbook",
+        "url": "https://www.typescriptlang.org/docs/handbook/intro.html"
+      }
+    ]
+  }
+]

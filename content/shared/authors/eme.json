@@ -1,0 +1,12 @@
+{
+  "name": "eme",
+  "bio": {
+    "en": "Human pilot researching cybernetic habitats, cosmotechnics, and sound systems.",
+    "es": "Piloto humana investigando hábitats cibernéticos, cosmotécnica y sistemas de sonido."
+  },
+  "authorship_mode": "human",
+  "links": {
+    "website": "https://aleph.chixi.haus",
+    "twitter": "@eme_zzz"
+  }
+}

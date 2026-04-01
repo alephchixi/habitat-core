@@ -1,0 +1,29 @@
+.filterBar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-md);
+  border-bottom: 1px solid var(--border);
+}
+
+.filterPill {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  padding: var(--space-xs) var(--space-md);
+  border: 1px solid var(--border);
+  border-radius: 99px;
+  opacity: var(--op-secondary);
+  transition: opacity var(--duration-fast) ease, background-color var(--duration-fast) ease, color var(--duration-fast) ease;
+}
+
+.filterPill:hover {
+  opacity: 1;
+}
+
+.filterPill.active {
+  background-color: var(--text);
+  color: var(--bg);
+  border-color: var(--text);
+  opacity: 1;
+}

@@ -1,0 +1,2433 @@
+[
+  {
+    "id": "res-000",
+    "type": "habitat",
+    "label": "Repositorio GitHub",
+    "href": "https://github.com/emezzzzz",
+    "description": "composer, philosopher, researcher.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "github.com",
+    "curation_status": "verified",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-001",
+    "type": "habitat",
+    "label": "Instagram",
+    "href": "https://instagram.com/alephchixi",
+    "description": "Perfil de Instagram para actualizaciones visuales y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "instagram.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-002",
+    "type": "habitat",
+    "label": "X",
+    "href": "https://x.com/alephchixi",
+    "description": "platform for cosmotechnical exploration",
+    "axes": [
+      "habitat"
+    ],
+    "source": "x.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-003",
+    "type": "habitat",
+    "label": "Bluesky",
+    "href": "https://bsky.app/profile/alephchixi.xyz",
+    "description": "Perfil de Bluesky en la red social Bluesky.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "bsky.app",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-004",
+    "type": "habitat",
+    "label": "LinkedIn",
+    "href": "https://linkedin.com/company/alephchixi",
+    "description": "aleph::ch'ixi | laboratory for cosmotechnical exploration",
+    "axes": [
+      "habitat"
+    ],
+    "source": "linkedin.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-005",
+    "type": "herramientas",
+    "label": "OpenCode",
+    "href": "https://opencode.ai",
+    "description": "OpenCode - The open source coding agent",
+    "axes": [
+      "habitat"
+    ],
+    "source": "opencode.ai",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-006",
+    "type": "herramientas",
+    "label": "OpenClaw",
+    "href": "https://openclaw.ai",
+    "description": "OpenClaw — The AI that actually does things.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "openclaw.ai",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-007",
+    "type": "herramientas",
+    "label": "Hermes",
+    "href": "https://nousresearch.com/hermes-4-technical-report/",
+    "description": "Herramienta digital para flujos creativos y tecnicos.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "nousresearch.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-008",
+    "type": "herramientas",
+    "label": "Hugging Face",
+    "href": "https://huggingface.co",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science",
+    "axes": [
+      "habitat"
+    ],
+    "source": "huggingface.co",
+    "curation_status": "verified",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-009",
+    "type": "herramientas",
+    "label": "Zed",
+    "href": "https://zed.dev",
+    "description": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
+    "axes": [
+      "habitat"
+    ],
+    "source": "zed.dev",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-010",
+    "type": "herramientas",
+    "label": "Obsidian",
+    "href": "https://obsidian.md",
+    "description": "The free and flexible app for your private thoughts",
+    "axes": [
+      "habitat"
+    ],
+    "source": "obsidian.md",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-011",
+    "type": "herramientas",
+    "label": "REAPER DAW",
+    "href": "https://www.reaper.fm",
+    "description": "REAPER DAW: herramienta digital para flujos creativos y tecnicos.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "reaper.fm",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-012",
+    "type": "herramientas",
+    "label": "Ghostty",
+    "href": "https://ghostty.org",
+    "description": "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ghostty.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-013",
+    "type": "herramientas",
+    "label": "Helium Browser",
+    "href": "https://helium.computer",
+    "description": "The web browser made for people, with love.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "helium.computer",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-014",
+    "type": "herramientas",
+    "label": "Cryexc (Trading)",
+    "href": "https://cryexc.josedonato.com/app",
+    "description": "Cryexc (Trading): herramienta digital para flujos creativos y tecnicos.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "cryexc.josedonato.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-015",
+    "type": "herramientas",
+    "label": "Market Monkey Terminal",
+    "href": "https://mmt.gg",
+    "description": "Advanced crypto liquidity and orderflow analysis platform for professional traders",
+    "axes": [
+      "habitat"
+    ],
+    "source": "mmt.gg",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-016",
+    "type": "herramientas",
+    "label": "Kiyotaka",
+    "href": "https://kiyotaka.ai",
+    "description": "Advanced trading platform for professional traders with real-time analytics and automation",
+    "axes": [
+      "habitat"
+    ],
+    "source": "kiyotaka.ai",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-017",
+    "type": "herramientas",
+    "label": "Ollama",
+    "href": "https://ollama.com",
+    "description": "Ollama is the easiest way to automate your work using open models, while keeping your data safe",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ollama.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-018",
+    "type": "herramientas",
+    "label": "skills.sh",
+    "href": "https://skills.sh",
+    "description": "Discover and install skills for AI agents",
+    "axes": [
+      "habitat"
+    ],
+    "source": "skills.sh",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-019",
+    "type": "editoriales",
+    "label": "Acantilado",
+    "href": "https://www.acantilado.es/",
+    "description": "Editorial independiente fundada en 1999.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "acantilado.es",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-020",
+    "type": "editoriales",
+    "label": "Adriana Hidalgo",
+    "href": "https://www.adrianahidalgo.com/",
+    "description": "Editorial especializada en literatura, ensayo, filosofía, arte y libros ilustrados.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "adrianahidalgo.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-021",
+    "type": "editoriales",
+    "label": "Akal",
+    "href": "https://www.akal.com/",
+    "description": "Akal: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "akal.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-022",
+    "type": "editoriales",
+    "label": "Alpha Decay",
+    "href": "http://www.alphadecay.org/",
+    "description": "Alpha Decay: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "alphadecay.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-023",
+    "type": "editoriales",
+    "label": "Arcadia",
+    "href": "https://www.arcadia-editorial.com/es/",
+    "description": "Segell editorial independent que ofereix un catàleg de textos escollits per difondre la història de les idees i les seves manifestacions contemporànies",
+    "axes": [
+      "habitat"
+    ],
+    "source": "arcadia-editorial.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-024",
+    "type": "editoriales",
+    "label": "Atalanta",
+    "href": "https://www.edicionesatalanta.com/",
+    "description": "Novedades Catálogo Reseñas",
+    "axes": [
+      "habitat"
+    ],
+    "source": "edicionesatalanta.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-025",
+    "type": "editoriales",
+    "label": "Autonomedia",
+    "href": "https://autonomedia.org/",
+    "description": "Autonomedia: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "autonomedia.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-026",
+    "type": "editoriales",
+    "label": "Bajo Tierra",
+    "href": "https://bajotierraediciones.com/",
+    "description": "Bajo Tierra Ediciones – Bajo Tierra",
+    "axes": [
+      "habitat"
+    ],
+    "source": "bajotierraediciones.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-027",
+    "type": "editoriales",
+    "label": "Becoming",
+    "href": "https://becoming.press/",
+    "description": "Becoming is a Machine specialising in para-academic and Minor literature",
+    "axes": [
+      "habitat"
+    ],
+    "source": "becoming.press",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-028",
+    "type": "editoriales",
+    "label": "Bellaterra",
+    "href": "https://www.bellaterra.coop/es",
+    "description": "Editorial académica fundada en 1973.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "bellaterra.coop",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-029",
+    "type": "editoriales",
+    "label": "Bloomsbury",
+    "href": "https://www.bloomsbury.com/us/",
+    "description": "Bloomsbury Publishing is a leading independent publishing house established in 1986.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "bloomsbury.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-030",
+    "type": "editoriales",
+    "label": "Cactus",
+    "href": "https://editorialcactus.com.ar/",
+    "description": "Cactus es una comunidad de cuatro monjes consagrados a la traducción, la diagramación, la lectura de libros, y a la escritura de opúsculos.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "editorialcactus.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-031",
+    "type": "editoriales",
+    "label": "Caja Negra",
+    "href": "https://cajanegraeditora.com.ar/",
+    "description": "Caja Negra, más de 15 años dedicados a elaborar un repertorio de recursos críticos para interferir las estructuras del presente y multiplicar futuros inciertos",
+    "axes": [
+      "habitat"
+    ],
+    "source": "cajanegraeditora.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-032",
+    "type": "editoriales",
+    "label": "Cátedra",
+    "href": "https://www.catedra.com/",
+    "description": "Cátedra: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "catedra.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-033",
+    "type": "editoriales",
+    "label": "Cita",
+    "href": "https://citapress.org/",
+    "description": "Cita: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "citapress.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-034",
+    "type": "editoriales",
+    "label": "Colorama",
+    "href": "https://coloramabooks.space/",
+    "description": "Online shop by Colorama for risograph printed comics zines artbooks posters prints and more!",
+    "axes": [
+      "habitat"
+    ],
+    "source": "coloramabooks.space",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-035",
+    "type": "editoriales",
+    "label": "Consonni",
+    "href": "https://www.consonni.org/es",
+    "description": "Consonni: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "consonni.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-036",
+    "type": "editoriales",
+    "label": "Diaphanes",
+    "href": "https://www.diaphanes.com/",
+    "description": "Diaphanes: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "diaphanes.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-037",
+    "type": "editoriales",
+    "label": "Dobra Robota",
+    "href": "https://dobrarobotaeditora.com/",
+    "description": "Tienda - Dobra Robota Editora",
+    "axes": [
+      "habitat"
+    ],
+    "source": "dobrarobotaeditora.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-038",
+    "type": "editoriales",
+    "label": "Duke University Press",
+    "href": "https://www.dukeupress.edu/",
+    "description": "Duke University Press is a not-for-profit scholarly publisher specializing in books, journals, open access, and other digital publishing initiatives in the humanities, social sciences, and mathematics.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "dukeupress.edu",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-039",
+    "type": "editoriales",
+    "label": "Edinburgh University Press",
+    "href": "https://edinburghuniversitypress.com",
+    "description": "Edinburgh University Press - the premier Scottish publisher of academic books, ebooks and journals",
+    "axes": [
+      "habitat"
+    ],
+    "source": "edinburghuniversitypress.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-040",
+    "type": "editoriales",
+    "label": "FCE",
+    "href": "https://www.fondodeculturaeconomica.com/",
+    "description": "Editorial y publicacion de referencia critica.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "fondodeculturaeconomica.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-041",
+    "type": "editoriales",
+    "label": "Feral House",
+    "href": "https://feralhouse.com/",
+    "description": "High-quality books on forbidden topics.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "feralhouse.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-042",
+    "type": "editoriales",
+    "label": "Galaxia Gutenberg",
+    "href": "https://www.galaxiagutenberg.com/",
+    "description": "Galaxia Gutenberg – Editorial literaria independiente",
+    "axes": [
+      "habitat"
+    ],
+    "source": "galaxiagutenberg.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-043",
+    "type": "editoriales",
+    "label": "Herder / Trotta",
+    "href": "https://herdereditorial.com/",
+    "description": "Herder / Trotta: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "herdereditorial.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-044",
+    "type": "editoriales",
+    "label": "Holobionte",
+    "href": "https://edicionesholobionte.com/",
+    "description": "novedades > ir al cat&aacute;logo noticias &laquo;zenda libros&raquo; &ndash; m&aacute;s all&aacute; de la identidad por pablo concha enero 12, 2026 &laquo;el pa&iacute;s&raquo; &ndash; entrevista a timothy morton por ca",
+    "axes": [
+      "habitat"
+    ],
+    "source": "edicionesholobionte.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-045",
+    "type": "editoriales",
+    "label": "K. Verlag",
+    "href": "https://kverlag.com/",
+    "description": "K. Verlag: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "kverlag.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-046",
+    "type": "editoriales",
+    "label": "La Marca",
+    "href": "https://lamarcaeditora.com/",
+    "description": "La Marca: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "lamarcaeditora.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-047",
+    "type": "editoriales",
+    "label": "Materia Oscura",
+    "href": "https://materiaoscuraeditorial.com/",
+    "description": "Materia Oscura: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "materiaoscuraeditorial.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-048",
+    "type": "editoriales",
+    "label": "Minotauro",
+    "href": "https://www.planetadelibros.com/editorial/minotauro/21",
+    "description": "Minotauro es el sello de referencia de literatura fantástica, de terror y ciencia ficción.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "planetadelibros.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-049",
+    "type": "editoriales",
+    "label": "MIT Press",
+    "href": "https://mitpress.mit.edu/",
+    "description": "Editorial y publicacion de referencia critica.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "mitpress.mit.edu",
+    "curation_status": "verified",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-050",
+    "type": "editoriales",
+    "label": "Ned",
+    "href": "https://nedediciones.com/",
+    "description": "Editorial y publicacion de referencia critica.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "nedediciones.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-051",
+    "type": "editoriales",
+    "label": "Nero",
+    "href": "https://www.neroeditions.com/",
+    "description": "Editorial y publicacion de referencia critica.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "neroeditions.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-052",
+    "type": "editoriales",
+    "label": "Nómada",
+    "href": "https://www.nomada-ediciones.com/",
+    "description": "Nómada: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "nomada-ediciones.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-053",
+    "type": "editoriales",
+    "label": "Ochodoscuatro",
+    "href": "https://ochodoscuatroediciones.org/",
+    "description": "El objetivo de esta editorial es sacar a la luz el problema de la explotación animal, extender las ideas antiespecistas y las experiencias de lucha",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ochodoscuatroediciones.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-054",
+    "type": "editoriales",
+    "label": "Open Humanities Press",
+    "href": "https://openhumanitiespress.org/",
+    "description": "A scholar led open access publishing collective",
+    "axes": [
+      "habitat"
+    ],
+    "source": "openhumanitiespress.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-055",
+    "type": "editoriales",
+    "label": "Pelican",
+    "href": "https://www.penguin.co.uk/series/PELBKS/pelican-books",
+    "description": "Pelican: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "penguin.co.uk",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-056",
+    "type": "editoriales",
+    "label": "Pez en el Árbol",
+    "href": "https://pezenelarbol.wordpress.com/",
+    "description": "Pez en el Árbol: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "pezenelarbol.wordpress.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-057",
+    "type": "editoriales",
+    "label": "Queen Ludd",
+    "href": "https://queenludd.empretienda.com.ar/",
+    "description": "Esta es la tienda online de Queen ludd!",
+    "axes": [
+      "habitat"
+    ],
+    "source": "queenludd.empretienda.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-058",
+    "type": "editoriales",
+    "label": "Rara Avis",
+    "href": "https://raraaviseditorial.com.ar",
+    "description": "Rara Avis: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "raraaviseditorial.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-059",
+    "type": "editoriales",
+    "label": "Repeater",
+    "href": "https://repeaterbooks.com/",
+    "description": "RepeaterMerch Scroll down Blog Subscribe Drop your email here to get latest updates about our new books, up to date events and fresh news.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "repeaterbooks.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-060",
+    "type": "editoriales",
+    "label": "re.press",
+    "href": "https://re-press.org/series/",
+    "description": "Editorial y publicacion de referencia critica.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "re-press.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-061",
+    "type": "editoriales",
+    "label": "Rey Naranjo",
+    "href": "https://www.reynaranjo.net/",
+    "description": "Rey Naranjo: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "reynaranjo.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-062",
+    "type": "editoriales",
+    "label": "Satori",
+    "href": "https://www.satoriediciones.com/",
+    "description": "Satori: Editorial especializada en Literatura y cultura japonesa, libros japoneses y sobre japón.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "satoriediciones.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-063",
+    "type": "editoriales",
+    "label": "Sexto Piso",
+    "href": "https://sextopiso.mx/",
+    "description": "Sexto Piso - Editorial Independiente",
+    "axes": [
+      "habitat"
+    ],
+    "source": "sextopiso.mx",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-064",
+    "type": "editoriales",
+    "label": "Shelter Press",
+    "href": "https://shelter-press.com",
+    "description": "Shelter Press is a publishing platform founded in 2012 by publisher Bartolomé Sanson and artist Félicia Atkinson building up dialogues between contemporary art, poetry and experimental music through printed publications",
+    "axes": [
+      "habitat"
+    ],
+    "source": "shelter-press.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-065",
+    "type": "editoriales",
+    "label": "Stenberg Press",
+    "href": "https://www.sternberg-press.com/?fbclid=PAZXh0bgNhZW0CMTEAAaYE0ZK6hN4Hev8cwtsvqDmAOzBMX4V_CbfuzLYkKG8kylp9UOqsZBoToiE_aem_PA0BMG0urSSMbNQunBrJ6Q",
+    "description": "Sternberg Press is a Berlin-based publishing house of art and cultural criticism, creative nonfiction, and literary and experimental fiction.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "sternberg-press.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-066",
+    "type": "editoriales",
+    "label": "SUP",
+    "href": "https://www.sup.org/",
+    "description": "Publisher of academic books in Anthropology, Asian Studies, Business, History, Jewish Studies, Latin American Studies, Law, Literary Studies and Literature, Media Studies, Middle East Studies, Politics, Sociology, Theory",
+    "axes": [
+      "habitat"
+    ],
+    "source": "sup.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-067",
+    "type": "editoriales",
+    "label": "Rayo Verde",
+    "href": "https://www.rayoverde.es/",
+    "description": "La editorial Rayo Verde publica libros inquisitivos, audaces e inconformistas que buscan un estilo propio y que, sin duda, son singulares.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "rayoverde.es",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-068",
+    "type": "editoriales",
+    "label": "Taschen",
+    "href": "https://www.taschen.com",
+    "description": "TASCHEN is a leading art-book publisher known for its dazzling and audacious world of eye-catching coffee table books",
+    "axes": [
+      "habitat"
+    ],
+    "source": "taschen.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-069",
+    "type": "editoriales",
+    "label": "Tinta Limón",
+    "href": "https://tintalimon.com.ar/",
+    "description": "Tinta Limón: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "tintalimon.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-070",
+    "type": "editoriales",
+    "label": "Traficantes",
+    "href": "https://traficantes.net/editorial",
+    "description": "Traficantes: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "traficantes.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-071",
+    "type": "editoriales",
+    "label": "University of Minnesota Press",
+    "href": "https://www.upress.umn.edu/",
+    "description": "The University of Minnesota Press, founded in 1925, is publisher of a strong and diverse book program, journal program, and the MMPI",
+    "axes": [
+      "habitat"
+    ],
+    "source": "upress.umn.edu",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-072",
+    "type": "editoriales",
+    "label": "Urbanomic",
+    "href": "https://www.urbanomic.com",
+    "description": "Editorial y publicacion de referencia critica.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "urbanomic.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-073",
+    "type": "editoriales",
+    "label": "Velocity Press",
+    "href": "https://velocitypress.uk",
+    "description": "Velocity Press publishes electronic music & club culture books.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "velocitypress.uk",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-074",
+    "type": "editoriales",
+    "label": "Verso Books",
+    "href": "https://www.versobooks.com/en-gb",
+    "description": "Verso Books is the largest independent, radical publishing house in the English-speaking world, publishing one hundred books a year",
+    "axes": [
+      "habitat"
+    ],
+    "source": "versobooks.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-075",
+    "type": "editoriales",
+    "label": "Vestigio",
+    "href": "https://edicionesvestigio.com",
+    "description": "Vestigio: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "edicionesvestigio.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-076",
+    "type": "editoriales",
+    "label": "Virus",
+    "href": "https://viruseditorial.net/",
+    "description": "Virus Editorial y Dirtribuidora es un proyecto cooperativo asambleario de edición y distribución de pensamiento crítico desde 1991.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "viruseditorial.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-077",
+    "type": "editoriales",
+    "label": "Zer0 Books",
+    "href": "https://www.collectiveinkbooks.com/zer0-books/",
+    "description": "Zer0 Books: editorial y publicacion de referencia.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "collectiveinkbooks.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-078",
+    "type": "portales",
+    "label": "&&&",
+    "href": "https://tripleampersand.org/",
+    "description": "&&&: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "tripleampersand.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-079",
+    "type": "portales",
+    "label": "Adynata",
+    "href": "https://www.revistaadynata.com/",
+    "description": "Revista Adynata Entre las figuras poéticas y retóricas, Adynata (plural de Adynaton, que suena a palabra femenina en castellano) compone lo imposible.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "revistaadynata.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-080",
+    "type": "portales",
+    "label": "Aeon",
+    "href": "https://aeon.co/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "aeon.co",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-081",
+    "type": "portales",
+    "label": "Anfibia",
+    "href": "https://www.revistaanfibia.com/",
+    "description": "Revista Anfibia: contenidos periodísticos y académicos que abordan la actualidad argentina y latinoamericana",
+    "axes": [
+      "habitat"
+    ],
+    "source": "revistaanfibia.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-082",
+    "type": "portales",
+    "label": "Artesonoro",
+    "href": "http://www.artesonoro.org/",
+    "description": "El diseño de sonido es uno de los elementos más importantes en toda producción audiovisual y uno de los menos conocidos por el gran público",
+    "axes": [
+      "habitat"
+    ],
+    "source": "artesonoro.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-083",
+    "type": "portales",
+    "label": "Blue Labyrinths",
+    "href": "https://bluelabyrinths.com/",
+    "description": "An online magazine focusing on philosophy, culture, and a collection of interesting ideas",
+    "axes": [
+      "habitat"
+    ],
+    "source": "bluelabyrinths.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-084",
+    "type": "portales",
+    "label": "Carla",
+    "href": "https://issuu.com/contemporaryartreview.la",
+    "description": "Contemporary Art Review Los Angeles (Carla) is a quarterly magazine, online art journal, and podcast committed to being an active source for critical dialogue surrounding Los Angeles’ art community.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "issuu.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-085",
+    "type": "portales",
+    "label": "Ccäpitalia",
+    "href": "https://www.ccapitalia.net/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ccapitalia.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-086",
+    "type": "portales",
+    "label": "Ch´ixinakax utxiwa",
+    "href": "https://chixinakax.wordpress.com/",
+    "description": "Una reflexión sobre prácticas y discursos descolonizadores",
+    "axes": [
+      "habitat"
+    ],
+    "source": "chixinakax.wordpress.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-087",
+    "type": "portales",
+    "label": "Clot",
+    "href": "https://www.clotmag.com/",
+    "description": "An online publishing platform dedicated to the most experimental art forms, with a focus on media theory, philosophy & cultural studies",
+    "axes": [
+      "habitat"
+    ],
+    "source": "clotmag.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-088",
+    "type": "portales",
+    "label": "Collapse",
+    "href": "https://www.urbanomic.com/series/collapse/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "urbanomic.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-089",
+    "type": "portales",
+    "label": "Cuadernos materialistas",
+    "href": "https://colectivamateria.wixsite.com/cuadmaterialistas",
+    "description": "Filosofía y Estética Posthumana",
+    "axes": [
+      "habitat"
+    ],
+    "source": "colectivamateria.wixsite.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-090",
+    "type": "portales",
+    "label": "Dazed",
+    "href": "https://www.dazeddigital.com/",
+    "description": "Youth and pop culture provocateurs since 1991.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "dazeddigital.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-091",
+    "type": "portales",
+    "label": "Deontologistics",
+    "href": "https://deontologistics.co/",
+    "description": "RESEARCHING THE DEMANDS OF THOUGHT",
+    "axes": [
+      "habitat"
+    ],
+    "source": "deontologistics.co",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-092",
+    "type": "portales",
+    "label": "Designing Sound",
+    "href": "https://designingsound.org",
+    "description": "Art and technique of sound design",
+    "axes": [
+      "habitat"
+    ],
+    "source": "designingsound.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-093",
+    "type": "portales",
+    "label": "DotCSV",
+    "href": "https://www.youtube.com/@DotCSV",
+    "description": "Divulgación sobre Inteligencia Artificial para que entiendas cómo funciona la próxima revolución industrial",
+    "axes": [
+      "habitat"
+    ],
+    "source": "youtube.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-094",
+    "type": "portales",
+    "label": "Ecology without nature",
+    "href": "http://ecologywithoutnature.blogspot.com/?m=1",
+    "description": "Ecology without nature: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ecologywithoutnature.blogspot.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-095",
+    "type": "portales",
+    "label": "e-flux",
+    "href": "https://www.e-flux.com/",
+    "description": "e-flux is a publishing platform and archive, artist project, curatorial platform, and enterprise which was founded in 1998",
+    "axes": [
+      "habitat"
+    ],
+    "source": "e-flux.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-096",
+    "type": "portales",
+    "label": "Electronic Book Review",
+    "href": "https://electronicbookreview.com/",
+    "description": "Electronic Book Review: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "electronicbookreview.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-097",
+    "type": "portales",
+    "label": "Fact",
+    "href": "https://www.factmag.com/",
+    "description": "Championing the new wave of electronic art",
+    "axes": [
+      "habitat"
+    ],
+    "source": "factmag.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-098",
+    "type": "portales",
+    "label": "Frieze",
+    "href": "https://www.frieze.com/",
+    "description": "Frieze is the definitive resource for contemporary art and culture, offering reviews, essays, interviews, videos and podcasts from around the world and four annual art fairs in London, New York, Seoul and Los Angeles",
+    "axes": [
+      "habitat"
+    ],
+    "source": "frieze.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-099",
+    "type": "portales",
+    "label": "Furias",
+    "href": "https://revistafurias.com.ar",
+    "description": "Furias: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "revistafurias.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-100",
+    "type": "portales",
+    "label": "Holo",
+    "href": "https://www.holo.mg/",
+    "description": "Holo: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "holo.mg",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-101",
+    "type": "portales",
+    "label": "Hipermédula",
+    "href": "https://hipermedula.org/",
+    "description": "Hipermédula: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "hipermedula.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-102",
+    "type": "portales",
+    "label": "Historical Materialism",
+    "href": "https://www.historicalmaterialism.org/",
+    "description": "Historical Materialism: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "historicalmaterialism.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-103",
+    "type": "portales",
+    "label": "Hypatia",
+    "href": "https://hypatiaphilosophy.org/",
+    "description": "03/10/25: Due to the health issues of more than one member of the Editorial Team, the journal processes will be slower by a few weeks than usual.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "hypatiaphilosophy.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-104",
+    "type": "portales",
+    "label": "Jennifer",
+    "href": "https://www.jennifer.net.ar/",
+    "description": "Jennifer: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "jennifer.net.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-105",
+    "type": "portales",
+    "label": "Just Seeds",
+    "href": "https://justseeds.org/",
+    "description": "Just Seeds: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "justseeds.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-106",
+    "type": "portales",
+    "label": "K-punk",
+    "href": "https://k-punk.org/",
+    "description": "K-punk: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "k-punk.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-107",
+    "type": "portales",
+    "label": "LessWrong",
+    "href": "https://www.lesswrong.com/",
+    "description": "A community blog devoted to refining the art of rationality",
+    "axes": [
+      "habitat"
+    ],
+    "source": "lesswrong.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-108",
+    "type": "portales",
+    "label": "Literary Hub",
+    "href": "https://lithub.com/",
+    "description": "The best of the literary web",
+    "axes": [
+      "habitat"
+    ],
+    "source": "lithub.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-109",
+    "type": "portales",
+    "label": "mediateletipos",
+    "href": "https://www.mediateletipos.net/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "mediateletipos.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-110",
+    "type": "portales",
+    "label": "Micelio",
+    "href": "https://www.revistamicelio.com/",
+    "description": "Revista Micelio es un proyecto editorial colombiano dedicado a la exploración de historias y figuras más-que-humanas",
+    "axes": [
+      "habitat"
+    ],
+    "source": "revistamicelio.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-111",
+    "type": "portales",
+    "label": "monoskop",
+    "href": "https://monoskop.org/Monoskop",
+    "description": "Wiki for Arts and Studies",
+    "axes": [
+      "habitat"
+    ],
+    "source": "monoskop.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-112",
+    "type": "portales",
+    "label": "Mute",
+    "href": "https://www.metamute.org/",
+    "description": "Critical writing on culture, politics and technology",
+    "axes": [
+      "habitat"
+    ],
+    "source": "metamute.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-113",
+    "type": "portales",
+    "label": "Neural",
+    "href": "https://neural.it/",
+    "description": "Neural | Critical digital culture and media arts",
+    "axes": [
+      "habitat"
+    ],
+    "source": "neural.it",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-114",
+    "type": "portales",
+    "label": "NON",
+    "href": "https://non-milleplateaux.de/",
+    "description": "NON: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "non-milleplateaux.de",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-115",
+    "type": "portales",
+    "label": "Open Philosophy",
+    "href": "https://www.degruyter.com/journal/key/opphil/html",
+    "description": "Open Philosophy is an international Open Access, peer-reviewed academic journal covering all areas of philosophy.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "degruyter.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-116",
+    "type": "portales",
+    "label": "OnScenes",
+    "href": "https://onscenes.weebly.com/",
+    "description": "OnScenes is an online magazine devoted to the art, philosophy, science, and technology.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "onscenes.weebly.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-117",
+    "type": "portales",
+    "label": "Parole de queer",
+    "href": "https://paroledequeer.blogspot.com/",
+    "description": "Panfleto transfeminista y queer",
+    "axes": [
+      "habitat"
+    ],
+    "source": "paroledequeer.blogspot.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-118",
+    "type": "portales",
+    "label": "Pijamasurf",
+    "href": "https://pijamasurf.com/",
+    "description": "Noticias e Información alternativa",
+    "axes": [
+      "habitat"
+    ],
+    "source": "pijamasurf.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-119",
+    "type": "portales",
+    "label": "Quanta",
+    "href": "https://www.quantamagazine.org/",
+    "description": "Illuminating mathematics, physics, biology and computer science research through public service journalism",
+    "axes": [
+      "habitat"
+    ],
+    "source": "quantamagazine.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-120",
+    "type": "portales",
+    "label": "Radical Philosophy",
+    "href": "https://www.radicalphilosophy.com",
+    "description": "Philosophical journal of the independent Left since 1972",
+    "axes": [
+      "habitat"
+    ],
+    "source": "radicalphilosophy.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-121",
+    "type": "portales",
+    "label": "Reflexiones Marginales",
+    "href": "https://revista.reflexionesmarginales.com",
+    "description": "Reflexiones Marginales: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "revista.reflexionesmarginales.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-122",
+    "type": "portales",
+    "label": "Replicante",
+    "href": "https://revistareplicante.com/",
+    "description": "Replicante: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "revistareplicante.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-123",
+    "type": "portales",
+    "label": "resonancias",
+    "href": "https://www.ccapitalia.net/reso/articulos/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ccapitalia.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-124",
+    "type": "portales",
+    "label": "Resident Advisor",
+    "href": "https://ra.co/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ra.co",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-125",
+    "type": "portales",
+    "label": "Rhizomes",
+    "href": "http://rhizomes.net/",
+    "description": "Rhizomes: Cultural Studies in Emerging Knowledge",
+    "axes": [
+      "habitat"
+    ],
+    "source": "rhizomes.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-126",
+    "type": "portales",
+    "label": "Roar",
+    "href": "https://roarmag.org",
+    "description": "Reflections on a Revolution",
+    "axes": [
+      "habitat"
+    ],
+    "source": "roarmag.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-127",
+    "type": "portales",
+    "label": "roots§routes",
+    "href": "https://www.roots-routes.org",
+    "description": "roots§routes: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "roots-routes.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-128",
+    "type": "portales",
+    "label": "Sonic Field",
+    "href": "https://sonicfield.org",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "sonicfield.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-129",
+    "type": "portales",
+    "label": "ŠUM",
+    "href": "https://www.sum.si/about",
+    "description": "UM – journal for contemporary art and theory fiction",
+    "axes": [
+      "habitat"
+    ],
+    "source": "sum.si",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-130",
+    "type": "portales",
+    "label": "Synthetic Zero",
+    "href": "https://syntheticzero.net",
+    "description": "Synthetic Zero: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "syntheticzero.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-131",
+    "type": "portales",
+    "label": "Técnicas Rudas",
+    "href": "https://tecnicasrudas.org/",
+    "description": "Welcome to Tecnicas Rudas",
+    "axes": [
+      "habitat"
+    ],
+    "source": "tecnicasrudas.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-132",
+    "type": "portales",
+    "label": "The Dark Fantastic",
+    "href": "https://socialecologies.wordpress.com/",
+    "description": "I can give you my loneliness, my darkness, the hunger of my heart, I am trying to bribe you with uncertainty, with danger, with defeat.” ― Jorge Luis Borges",
+    "axes": [
+      "habitat"
+    ],
+    "source": "socialecologies.wordpress.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-133",
+    "type": "portales",
+    "label": "The Defiant",
+    "href": "https://thedefiant.io/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "thedefiant.io",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-134",
+    "type": "portales",
+    "label": "The Quietus",
+    "href": "https://thequietus.com/",
+    "description": "The leading independent voice in music and cultural criticism.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "thequietus.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-135",
+    "type": "portales",
+    "label": "The Wire",
+    "href": "https://www.thewire.co.uk/home/",
+    "description": "The world's greatest print and online music magazine.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "thewire.co.uk",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-136",
+    "type": "portales",
+    "label": "The Void",
+    "href": "https://networkcultures.org/void/",
+    "description": "The Void: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "networkcultures.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-137",
+    "type": "portales",
+    "label": "Trans Reads",
+    "href": "https://transreads.org/",
+    "description": "Trans Reads: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "transreads.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-138",
+    "type": "portales",
+    "label": "Transmediale archive",
+    "href": "https://archive.transmediale.de/",
+    "description": "Portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "archive.transmediale.de",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-139",
+    "type": "portales",
+    "label": "Tsonami Ediciones",
+    "href": "https://tsonamiediciones.cl/",
+    "description": "La plataforma web de Tsonami Ediciones es un espacio de difusión y promoción para artistxs latinoamericanxs vinculados a las prácticas del arte sonoro",
+    "axes": [
+      "habitat"
+    ],
+    "source": "tsonamiediciones.cl",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-140",
+    "type": "portales",
+    "label": "Uberty",
+    "href": "https://uberty.org/",
+    "description": "Uberty is a resource and research hub indexing documents and media related to New Rationalism, Accelerationism, and other developing theory and philosophy",
+    "axes": [
+      "habitat"
+    ],
+    "source": "uberty.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-141",
+    "type": "portales",
+    "label": "Ubu Web",
+    "href": "https://www.ubu.com/",
+    "description": "Ubu Web: portal curado para investigacion y seguimiento.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ubu.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-142",
+    "type": "portales",
+    "label": "Virtualis",
+    "href": "https://www.revistavirtualis.mx/index.php/virtualis",
+    "description": "Esta revista aborda los debates en torno a la cultura digital, las relaciones entre cultura, tecnología y sociedad",
+    "axes": [
+      "habitat"
+    ],
+    "source": "revistavirtualis.mx",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-143",
+    "type": "portales",
+    "label": "Web3 is going great",
+    "href": "https://www.web3isgoinggreat.com/",
+    "description": "A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects",
+    "axes": [
+      "habitat"
+    ],
+    "source": "web3isgoinggreat.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-144",
+    "type": "portales",
+    "label": "Xenomórfica",
+    "href": "https://edicionesholobionte.com/xenomorfica-magazine-online/",
+    "description": "XENOM&Oacute;RFICA magazine on-line Esta es la versi&oacute;n on-line de Xenom&oacute;rfica Magazine (activa entre diciembre-2020 y diciembre-2025); los contenidos aqu&iacute; publicados no est&aacute;n relacionados con",
+    "axes": [
+      "habitat"
+    ],
+    "source": "edicionesholobionte.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-145",
+    "type": "plataformas",
+    "label": "4l3ph",
+    "href": "https://4l3ph.com/",
+    "description": "4l3ph: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "4l3ph.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-146",
+    "type": "plataformas",
+    "label": "Anarchist Federation",
+    "href": "https://www.anarchistfederation.net",
+    "description": "Anarchist news multi-lingual platform Ⓐ daily anti-capitalist news & anti-fascist information from 600+ collectives",
+    "axes": [
+      "habitat"
+    ],
+    "source": "anarchistfederation.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-147",
+    "type": "plataformas",
+    "label": "Atractor",
+    "href": "https://atractor.org/",
+    "description": "Signup to be the first to know when we launch",
+    "axes": [
+      "habitat"
+    ],
+    "source": "atractor.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-148",
+    "type": "plataformas",
+    "label": "Arqueologías del porvenir",
+    "href": "https://arqueologiasdelporvenir.com.ar/",
+    "description": "Arqueologías del Porvenir – Programa de Estudios de Teoría Política",
+    "axes": [
+      "habitat"
+    ],
+    "source": "arqueologiasdelporvenir.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-149",
+    "type": "plataformas",
+    "label": "Ars Electronica",
+    "href": "https://ars.electronica.art/news/en/",
+    "description": "Get the News & Stories Visit the Ars Electronica Center Experience the Ars Electronica Festival Get to know the Ars Electronica Ecosystem",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ars.electronica.art",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-150",
+    "type": "plataformas",
+    "label": "Arts at CERN",
+    "href": "https://arts.cern/",
+    "description": "Arts at CERN is the arts programme of CERN, the European Laboratory for Particle Physics in Geneva",
+    "axes": [
+      "habitat"
+    ],
+    "source": "arts.cern",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-151",
+    "type": "plataformas",
+    "label": "CCCB Lab",
+    "href": "https://lab.cccb.org/es/",
+    "description": "CCCB Lab: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "lab.cccb.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-152",
+    "type": "plataformas",
+    "label": "CCRU",
+    "href": "http://www.ccru.net/",
+    "description": "Plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "ccru.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-153",
+    "type": "plataformas",
+    "label": "Electrobiota",
+    "href": "https://colectivoelectrobiota.wordpress.com/",
+    "description": "Arte, tecnología y naturaleza Colectivo Electrobiota nace en el 2014 y está integrado por las artistas multimediales mexicanas Gabriela Munguía y Guadalupe Chávez.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "colectivoelectrobiota.wordpress.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-154",
+    "type": "plataformas",
+    "label": "Estudios Posthumanos",
+    "href": "https://www.estudiosposthumanos.com.ar/",
+    "description": "Estudios Posthumanos: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "estudiosposthumanos.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-155",
+    "type": "plataformas",
+    "label": "Éter Lab",
+    "href": "https://eter-lab.net",
+    "description": "Plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "eter-lab.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-156",
+    "type": "plataformas",
+    "label": "Experimenta",
+    "href": "https://experimenta.org/",
+    "description": "Experimenta: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "experimenta.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-157",
+    "type": "plataformas",
+    "label": "Future Studies",
+    "href": "https://www.futurestudiesprogram.com/",
+    "description": "Future Studies Program offers an original, cutting-edge, and interdisciplinary outlook on futuristic advancements (in society, technology, culture, art), for the purpose of exploring imaginative possibilities for the fut",
+    "axes": [
+      "habitat"
+    ],
+    "source": "futurestudiesprogram.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-158",
+    "type": "plataformas",
+    "label": "Hangar",
+    "href": "https://hangar.org/es/",
+    "description": "Hangar: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "hangar.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-159",
+    "type": "plataformas",
+    "label": "Institute for Postnatural Studies",
+    "href": "https://www.instituteforpostnaturalstudies.org/",
+    "description": "Institute for Postnatural Studies",
+    "axes": [
+      "habitat"
+    ],
+    "source": "instituteforpostnaturalstudies.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-160",
+    "type": "plataformas",
+    "label": "Institute of Network Cultures",
+    "href": "https://networkcultures.org/",
+    "description": "Institute of Network Cultures",
+    "axes": [
+      "habitat"
+    ],
+    "source": "networkcultures.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-161",
+    "type": "plataformas",
+    "label": "Interspecifics",
+    "href": "https://interspecifics.cc/work/",
+    "description": "Plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "interspecifics.cc",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-162",
+    "type": "plataformas",
+    "label": "Laboria Cuboniks",
+    "href": "https://laboriacuboniks.net/",
+    "description": "The Xenofeminist Manifesto by Laboria Cuboniks, including a repository of translations, as well as a resource base for additional, critical materials related to Xenofeminism",
+    "axes": [
+      "habitat"
+    ],
+    "source": "laboriacuboniks.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-163",
+    "type": "plataformas",
+    "label": "LEV",
+    "href": "https://levfestival.com/",
+    "description": "LEV: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "levfestival.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-164",
+    "type": "plataformas",
+    "label": "Matadero",
+    "href": "https://www.mataderomadrid.org/",
+    "description": "Matadero: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "mataderomadrid.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-165",
+    "type": "plataformas",
+    "label": "Mutek",
+    "href": "https://mutek.org",
+    "description": "MUTEK is a not-for-profit organization dedicated to the dissemination and development of digital creativity in sound, music, and audio-visual art",
+    "axes": [
+      "habitat"
+    ],
+    "source": "mutek.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-166",
+    "type": "plataformas",
+    "label": "Node",
+    "href": "https://nodeforum.org/",
+    "description": "We are NODE, an open platform for the exchange on culture, arts and technology.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "nodeforum.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-167",
+    "type": "plataformas",
+    "label": "old boys network",
+    "href": "https://obn.org",
+    "description": "old boys network [the mode is the message - the code is the collective",
+    "axes": [
+      "habitat"
+    ],
+    "source": "obn.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-168",
+    "type": "plataformas",
+    "label": "Organisation Non-Philosophique Internationale",
+    "href": "https://onphi.org/es",
+    "description": "La no-filosofía es herética en filosofía pero ortodoxa en herejía, y de este modo herética para la filosofía",
+    "axes": [
+      "habitat"
+    ],
+    "source": "onphi.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-169",
+    "type": "plataformas",
+    "label": "Otros Presentes",
+    "href": "https://x.com/otrospresentes",
+    "description": "Colectivo espumoso de investigación y divulgación.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "x.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-170",
+    "type": "plataformas",
+    "label": "Paper Tiger TV",
+    "href": "https://papertiger.org/",
+    "description": "Paper Tiger TV: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "papertiger.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-171",
+    "type": "plataformas",
+    "label": "Platohedro",
+    "href": "https://platohedro.org",
+    "description": "Plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "platohedro.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-172",
+    "type": "plataformas",
+    "label": "Pliegue",
+    "href": "https://linktr.ee/pliegue",
+    "description": "Pliegue: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "linktr.ee",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-173",
+    "type": "plataformas",
+    "label": "Posnaturalismos",
+    "href": "https://posnaturalismos.com.ar/",
+    "description": "Posnaturalismos: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "posnaturalismos.com.ar",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-174",
+    "type": "plataformas",
+    "label": "Red Iberoamericana de Ontologías Posthumanas",
+    "href": "https://linktr.ee/cosmografiasred",
+    "description": "Red Iberoamericana de Ontologías Posthumanas: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "linktr.ee",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-175",
+    "type": "plataformas",
+    "label": "Research Network for Philosophy and Technology",
+    "href": "https://philosophyandtechnology.network/language/en/",
+    "description": "Philosophy of Technology",
+    "axes": [
+      "habitat"
+    ],
+    "source": "philosophyandtechnology.network",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-176",
+    "type": "plataformas",
+    "label": "Rizhomatiks",
+    "href": "https://rhizomatiks.com/",
+    "description": "Rizhomatiks: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "rhizomatiks.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-177",
+    "type": "plataformas",
+    "label": "School of Materialist Research",
+    "href": "https://schoolofmaterialistresearch.org/",
+    "description": "The School of Materialist Research",
+    "axes": [
+      "habitat"
+    ],
+    "source": "schoolofmaterialistresearch.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-178",
+    "type": "plataformas",
+    "label": "Sónar +D",
+    "href": "https://sonar.es/es/programa/sonar-d",
+    "description": "Sónar +D: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "sonar.es",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-179",
+    "type": "plataformas",
+    "label": "Sonic Acts",
+    "href": "https://sonicacts.com/",
+    "description": "An interdisciplinary arts organisation based in Amsterdam",
+    "axes": [
+      "habitat"
+    ],
+    "source": "sonicacts.com",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-180",
+    "type": "plataformas",
+    "label": "SubRosa",
+    "href": "http://cyberfeminism.net/",
+    "description": "subRosa – a cyberfeminist art collective",
+    "axes": [
+      "habitat"
+    ],
+    "source": "cyberfeminism.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-181",
+    "type": "plataformas",
+    "label": "The New Centre for Research and Practice",
+    "href": "https://thenewcentre.org/",
+    "description": "Plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "thenewcentre.org",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-182",
+    "type": "plataformas",
+    "label": "Transmedia Research Institute",
+    "href": "https://www.transmediaresearch.institute",
+    "description": "Transmedia Research Institute",
+    "axes": [
+      "habitat"
+    ],
+    "source": "transmediaresearch.institute",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-183",
+    "type": "plataformas",
+    "label": "tranxxeno lab",
+    "href": "https://tranxxenolab.net/",
+    "description": "tranxxeno lab: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "tranxxenolab.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-184",
+    "type": "plataformas",
+    "label": "Toda la teoría del universo",
+    "href": "https://linktr.ee/todalateoriadeluniverso",
+    "description": "Toda la teoría del universo: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "linktr.ee",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-185",
+    "type": "plataformas",
+    "label": "Tsonami",
+    "href": "https://www.tsonami.cl/",
+    "description": "Tsonami: plataforma online para distribucion y comunidad.",
+    "axes": [
+      "habitat"
+    ],
+    "source": "tsonami.cl",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  },
+  {
+    "id": "res-186",
+    "type": "plataformas",
+    "label": "VNS Matrix",
+    "href": "https://vnsmatrix.net",
+    "description": "The most consistent VNS Matrix genesis story is that they crawled out of the cyberswamp in the particularly hot summer of 1991",
+    "axes": [
+      "habitat"
+    ],
+    "source": "vnsmatrix.net",
+    "curation_status": "reviewed",
+    "last_checked_at": "2026-03-31"
+  }
+]

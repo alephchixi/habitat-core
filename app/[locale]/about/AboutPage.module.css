@@ -1,0 +1,245 @@
+.page {
+  padding: var(--space-2xl) 0;
+}
+
+.contentWrap {
+  width: 100%;
+  margin-top: var(--space-3xl);
+}
+
+.title {
+  font-weight: 400;
+  margin-bottom: var(--space-2xl);
+  font-size: 2rem;
+}
+
+.manifesto {
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  line-height: 1.6;
+  color: var(--text);
+}
+
+.teamSection {
+  margin-top: var(--space-3xl);
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-xl);
+  display: grid;
+  gap: var(--space-sm);
+}
+
+.teamLabel {
+  opacity: var(--op-label);
+}
+
+.teamTitle {
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.teamSubtitle {
+  opacity: var(--op-secondary);
+  max-width: 72ch;
+}
+
+.teamGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--border);
+}
+
+.teamCard {
+  background: var(--bg);
+  padding: var(--space-md);
+  display: grid;
+  gap: var(--space-xs);
+}
+
+.teamName {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  text-transform: lowercase;
+}
+
+.teamMode {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  opacity: var(--op-secondary);
+}
+
+.contactSection {
+  margin-top: var(--space-3xl);
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-xl);
+  display: grid;
+  gap: var(--space-sm);
+}
+
+.contactLabel {
+  opacity: var(--op-label);
+}
+
+.contactTitle {
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.contactSubtitle {
+  max-width: 72ch;
+  opacity: var(--op-secondary);
+}
+
+.formGrid {
+  margin-top: var(--space-sm);
+  display: grid;
+  gap: var(--space-sm);
+  width: 100%;
+}
+
+.formColumns {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.35fr);
+  gap: var(--space-md);
+}
+
+.formLeft,
+.formRight {
+  display: grid;
+  gap: var(--space-sm);
+  align-content: start;
+}
+
+.field {
+  display: grid;
+  gap: var(--space-xs);
+}
+
+.fieldLabel {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  opacity: var(--op-label);
+}
+
+.input,
+.textarea {
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  padding: 0.625rem var(--space-sm);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 220px;
+}
+
+.messageField {
+  height: 100%;
+}
+
+.submitButton {
+  width: fit-content;
+  border: 1px solid var(--border);
+  padding: 0.5rem var(--space-md);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  opacity: var(--op-secondary);
+}
+
+.submitButton:hover {
+  opacity: 1;
+}
+
+.formHint {
+  font-size: 0.9rem;
+  opacity: var(--op-secondary);
+}
+
+.formHint a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.logSection {
+  margin-top: var(--space-3xl);
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-xl);
+  display: grid;
+  gap: var(--space-sm);
+}
+
+.logLabel {
+  opacity: var(--op-label);
+}
+
+.logTitle {
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.logSubtitle {
+  opacity: var(--op-secondary);
+  max-width: 72ch;
+}
+
+.logTable {
+  display: grid;
+  gap: 1px;
+  background: var(--border);
+}
+
+.logHeader,
+.logRow {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr 4fr;
+  gap: var(--space-sm);
+  background: var(--bg);
+  padding: var(--space-sm) var(--space-xs);
+}
+
+.logHeader {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  opacity: var(--op-label);
+}
+
+.logRow {
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.logVersion {
+  font-family: var(--font-mono);
+}
+
+@media (max-width: 900px) {
+  .formColumns {
+    grid-template-columns: 1fr;
+  }
+
+  .teamGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .textarea {
+    min-height: 160px;
+  }
+
+  .logHeader {
+    display: none;
+  }
+
+  .logRow {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "cybernetic-foundations",
+    "author": "don hermes",
+    "title": {
+      "en": "Cybernetic Foundations",
+      "es": "Fundamentos Ciberneticos"
+    },
+    "description": {
+      "en": "Core references for understanding feedback, recursion, and system observation.",
+      "es": "Referencias base para comprender retroalimentacion, recursion y observacion de sistemas."
+    },
+    "theme": "cybernetics",
+    "item_ids": [
+      "cybernetics-control-communication",
+      "second-order-cybernetics-foerster",
+      "steps-ecology-of-mind",
+      "mind-and-nature-bateson"
+    ]
+  },
+  {
+    "id": "decolonial-cosmotechnics",
+    "author": "don hermes",
+    "title": {
+      "en": "Decolonial Cosmotechnics",
+      "es": "Cosmotecnicas Decoloniales"
+    },
+    "description": {
+      "en": "Reading path connecting ch'ixi thought, pluriversal design, and situated technics.",
+      "es": "Ruta de lectura que conecta pensamiento ch'ixi, diseno pluriversal y tecnicas situadas."
+    },
+    "theme": "decolonial",
+    "item_ids": [
+      "chixi-concept",
+      "question-concerning-technology-china",
+      "pluriverse-design-paper",
+      "decolonial-ai-paper"
+    ]
+  }
+]

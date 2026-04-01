@@ -1,0 +1,422 @@
+[
+  {
+    "id": "cybernetics-control-communication",
+    "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+    "type": "book",
+    "author_or_source": "Norbert Wiener",
+    "year": "1948",
+    "url": "https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine",
+    "region": "global",
+    "themes": ["cybernetics", "feedback", "control"],
+    "axes": ["habitat", "ethics", "cosmotechnics"],
+    "description": {
+      "en": "Foundational reference for feedback loops and cybernetic reasoning in social and technical systems.",
+      "es": "Referencia fundacional para bucles de retroalimentacion y razonamiento cibernetico en sistemas sociales y tecnicos."
+    }
+  },
+  {
+    "id": "second-order-cybernetics-foerster",
+    "title": "Understanding Understanding",
+    "type": "book",
+    "author_or_source": "Heinz von Foerster",
+    "year": "2003",
+    "url": "https://link.springer.com/book/10.1007/b138538",
+    "region": "europe",
+    "themes": ["second-order", "observation", "epistemology"],
+    "axes": ["habitat", "ethics", "lab"],
+    "description": {
+      "en": "Second-order cybernetics on observers, reflexivity, and operational closure.",
+      "es": "Cibernetica de segundo orden sobre observadores, reflexividad y clausura operacional."
+    }
+  },
+  {
+    "id": "steps-ecology-of-mind",
+    "title": "Steps to an Ecology of Mind",
+    "type": "book",
+    "author_or_source": "Gregory Bateson",
+    "year": "1972",
+    "url": "https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind",
+    "region": "global",
+    "themes": ["systems", "communication", "ecology"],
+    "axes": ["ecology", "spirit", "habitat"],
+    "description": {
+      "en": "Cross-disciplinary essays linking communication patterns with ecological thought.",
+      "es": "Ensayos transdisciplinarios que vinculan patrones de comunicacion con pensamiento ecologico."
+    }
+  },
+  {
+    "id": "mind-and-nature-bateson",
+    "title": "Mind and Nature: A Necessary Unity",
+    "type": "book",
+    "author_or_source": "Gregory Bateson",
+    "year": "1979",
+    "url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo5977186.html",
+    "region": "global",
+    "themes": ["mind", "ecology", "pattern"],
+    "axes": ["ecology", "spirit"],
+    "description": {
+      "en": "Bateson's synthesis of mind, pattern, and ecological interdependence.",
+      "es": "Sintesis de Bateson sobre mente, patron e interdependencia ecologica."
+    }
+  },
+  {
+    "id": "question-concerning-technology-china",
+    "title": "The Question Concerning Technology in China",
+    "type": "book",
+    "author_or_source": "Yuk Hui",
+    "year": "2016",
+    "url": "https://www.urbanomic.com/book/the-question-concerning-technology-in-china/",
+    "region": "asia",
+    "themes": ["cosmotechnics", "pluralism", "modernity"],
+    "axes": ["cosmotechnics", "ecology"],
+    "description": {
+      "en": "Introduces cosmotechnics as a plural framework for technical modernity.",
+      "es": "Introduce la cosmotecnica como marco plural para la modernidad tecnica."
+    }
+  },
+  {
+    "id": "recursivity-and-contingency",
+    "title": "Recursivity and Contingency",
+    "type": "book",
+    "author_or_source": "Yuk Hui",
+    "year": "2019",
+    "url": "https://rowman.com/ISBN/9781786614325/Recursivity-and-Contingency",
+    "region": "asia",
+    "themes": ["recursion", "computation", "philosophy"],
+    "axes": ["cosmotechnics", "lab", "ethics"],
+    "description": {
+      "en": "Philosophical account of recursion as technical and epistemic condition.",
+      "es": "Analisis filosofico de la recursion como condicion tecnica y epistemica."
+    }
+  },
+  {
+    "id": "staying-with-the-trouble",
+    "title": "Staying with the Trouble",
+    "type": "book",
+    "author_or_source": "Donna Haraway",
+    "year": "2016",
+    "url": "https://www.dukeupress.edu/staying-with-the-trouble",
+    "region": "north-america",
+    "themes": ["kinship", "ecology", "speculative"],
+    "axes": ["ecology", "ethics", "lab"],
+    "description": {
+      "en": "Speculative and situated proposals for multispecies collaboration.",
+      "es": "Propuestas especulativas y situadas para colaboracion multiespecie."
+    }
+  },
+  {
+    "id": "surveillance-capitalism",
+    "title": "The Age of Surveillance Capitalism",
+    "type": "book",
+    "author_or_source": "Shoshana Zuboff",
+    "year": "2019",
+    "url": "https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism",
+    "region": "north-america",
+    "themes": ["platforms", "extraction", "governance"],
+    "axes": ["ethics", "habitat"],
+    "description": {
+      "en": "Analysis of behavioral extraction and platform power.",
+      "es": "Analisis de extraccion conductual y poder de plataformas."
+    }
+  },
+  {
+    "id": "tools-for-conviviality",
+    "title": "Tools for Conviviality",
+    "type": "book",
+    "author_or_source": "Ivan Illich",
+    "year": "1973",
+    "url": "https://en.wikipedia.org/wiki/Tools_for_Conviviality",
+    "region": "europe",
+    "themes": ["conviviality", "autonomy", "institutions"],
+    "axes": ["ethics", "habitat"],
+    "description": {
+      "en": "Classic critique of industrial institutions and scale.",
+      "es": "Critica clasica de instituciones industriales y escala."
+    }
+  },
+  {
+    "id": "pedagogy-of-the-oppressed",
+    "title": "Pedagogy of the Oppressed",
+    "type": "book",
+    "author_or_source": "Paulo Freire",
+    "year": "1968",
+    "url": "https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed",
+    "region": "latam",
+    "themes": ["pedagogy", "liberation", "critical-method"],
+    "axes": ["ethics", "spirit"],
+    "description": {
+      "en": "Critical pedagogy model for dialogic emancipation.",
+      "es": "Modelo de pedagogia critica para emancipacion dialogica."
+    }
+  },
+  {
+    "id": "open-veins-latin-america",
+    "title": "Open Veins of Latin America",
+    "type": "book",
+    "author_or_source": "Eduardo Galeano",
+    "year": "1971",
+    "url": "https://en.wikipedia.org/wiki/Open_Veins_of_Latin_America",
+    "region": "latam",
+    "themes": ["extractivism", "history", "coloniality"],
+    "axes": ["habitat", "ethics"],
+    "description": {
+      "en": "Historical account of extraction and dependency in Latin America.",
+      "es": "Relato historico de extraccion y dependencia en America Latina."
+    }
+  },
+  {
+    "id": "design-justice",
+    "title": "Design Justice",
+    "type": "book",
+    "author_or_source": "Sasha Costanza-Chock",
+    "year": "2020",
+    "url": "https://mitpress.mit.edu/9780262043451/design-justice/",
+    "region": "north-america",
+    "themes": ["participation", "justice", "community"],
+    "axes": ["ethics", "lab", "habitat"],
+    "description": {
+      "en": "Framework for participatory design led by impacted communities.",
+      "es": "Marco de diseno participativo liderado por comunidades afectadas."
+    }
+  },
+  {
+    "id": "situated-knowledges-paper",
+    "title": "Situated Knowledges",
+    "type": "paper",
+    "author_or_source": "Donna Haraway",
+    "year": "1988",
+    "url": "https://doi.org/10.2307/3178066",
+    "region": "north-america",
+    "themes": ["feminism", "epistemology", "partial-perspective"],
+    "axes": ["ethics", "lab"],
+    "description": {
+      "en": "Seminal paper on embodied and partial objectivity.",
+      "es": "Articulo seminal sobre objetividad encarnada y parcial."
+    }
+  },
+  {
+    "id": "decolonial-ai-paper",
+    "title": "Decolonial AI",
+    "type": "paper",
+    "author_or_source": "Abeba Birhane",
+    "year": "2020",
+    "url": "https://arxiv.org/abs/2009.14258",
+    "region": "africa",
+    "themes": ["decolonial", "ai-ethics", "power"],
+    "axes": ["ethics", "habitat", "lab"],
+    "description": {
+      "en": "Decolonial critique of dominant AI paradigms and infrastructures.",
+      "es": "Critica decolonial de paradigmas e infraestructuras dominantes de IA."
+    }
+  },
+  {
+    "id": "pluriverse-design-paper",
+    "title": "Designs for the Pluriverse",
+    "type": "paper",
+    "author_or_source": "Arturo Escobar",
+    "year": "2018",
+    "url": "https://read.dukeupress.edu/books/book/2472/Designs-for-the-Pluriverse",
+    "region": "latam",
+    "themes": ["pluriverse", "autonomy", "territory"],
+    "axes": ["habitat", "ecology", "ethics"],
+    "description": {
+      "en": "Proposal for design practices rooted in relational worlds.",
+      "es": "Propuesta de practicas de diseno arraigadas en mundos relacionales."
+    }
+  },
+  {
+    "id": "chixi-concept",
+    "title": "Ch'ixi",
+    "type": "concept",
+    "author_or_source": "Silvia Rivera Cusicanqui",
+    "year": "2010",
+    "url": "https://en.wikipedia.org/wiki/Silvia_Rivera_Cusicanqui",
+    "region": "abya-yala",
+    "themes": ["decolonial", "coexistence", "abigarrado"],
+    "axes": ["habitat", "ecology"],
+    "description": {
+      "en": "Concept of non-synthetic coexistence between heterogenous realities.",
+      "es": "Concepto de coexistencia no sintetica entre realidades heterogeneas."
+    }
+  },
+  {
+    "id": "buen-vivir-concept",
+    "title": "Buen Vivir",
+    "type": "concept",
+    "author_or_source": "Andean Indigenous Traditions",
+    "year": "2008",
+    "url": "https://en.wikipedia.org/wiki/Good_living",
+    "region": "andes",
+    "themes": ["relationality", "community", "ecological-balance"],
+    "axes": ["ecology", "spirit", "ethics"],
+    "description": {
+      "en": "Relational horizon for collective life beyond extractivist development.",
+      "es": "Horizonte relacional para vida colectiva mas alla del desarrollo extractivista."
+    }
+  },
+  {
+    "id": "cosmotechnics-concept",
+    "title": "Cosmotechnics",
+    "type": "concept",
+    "author_or_source": "Yuk Hui",
+    "year": "2016",
+    "url": "https://www.urbanomic.com/book/the-question-concerning-technology-in-china/",
+    "region": "global",
+    "themes": ["plural-technology", "cosmology", "technic"],
+    "axes": ["cosmotechnics", "spirit", "ecology"],
+    "description": {
+      "en": "Proposal to think technologies through situated cosmologies.",
+      "es": "Propuesta para pensar tecnologias desde cosmologias situadas."
+    }
+  },
+  {
+    "id": "metabolic-rift-concept",
+    "title": "Metabolic Rift",
+    "type": "concept",
+    "author_or_source": "John Bellamy Foster",
+    "year": "1999",
+    "url": "https://en.wikipedia.org/wiki/Metabolic_rift",
+    "region": "global",
+    "themes": ["ecology", "political-economy", "agriculture"],
+    "axes": ["ecology", "ethics"],
+    "description": {
+      "en": "Concept describing systemic rupture between social and ecological cycles.",
+      "es": "Concepto que describe la ruptura sistemica entre ciclos sociales y ecologicos."
+    }
+  },
+  {
+    "id": "data-colonialism-concept",
+    "title": "Data Colonialism",
+    "type": "concept",
+    "author_or_source": "Nick Couldry and Ulises Mejias",
+    "year": "2019",
+    "url": "https://www.sup.org/books/title/?id=28916",
+    "region": "global",
+    "themes": ["data-extraction", "platform-power", "coloniality"],
+    "axes": ["ethics", "habitat"],
+    "description": {
+      "en": "Extends colonial critique to contemporary data extraction regimes.",
+      "es": "Extiende la critica colonial a regimenes contemporaneos de extraccion de datos."
+    }
+  },
+  {
+    "id": "infrastructural-commoning-concept",
+    "title": "Infrastructural Commoning",
+    "type": "concept",
+    "author_or_source": "Critical Infrastructure Studies",
+    "year": "2021",
+    "url": "https://www.degruyter.com/document/doi/10.1515/9783839448802/html",
+    "region": "global",
+    "themes": ["commons", "infrastructure", "collective-governance"],
+    "axes": ["habitat", "lab", "ethics"],
+    "description": {
+      "en": "Approach to shared infrastructures governed as commons.",
+      "es": "Enfoque de infraestructuras compartidas gobernadas como comunes."
+    }
+  },
+  {
+    "id": "ubuntu-ethics-concept",
+    "title": "Ubuntu",
+    "type": "concept",
+    "author_or_source": "Southern African Philosophy",
+    "year": "1999",
+    "url": "https://plato.stanford.edu/entries/african-ethics/",
+    "region": "africa",
+    "themes": ["relational-ethics", "community", "care"],
+    "axes": ["ethics", "spirit"],
+    "description": {
+      "en": "Relational ethical principle centered on interdependence.",
+      "es": "Principio etico relacional centrado en la interdependencia."
+    }
+  },
+  {
+    "id": "cyberfeminism-concept",
+    "title": "Cyberfeminism",
+    "type": "concept",
+    "author_or_source": "VNS Matrix and subsequent theorists",
+    "year": "1991",
+    "url": "https://en.wikipedia.org/wiki/Cyberfeminism",
+    "region": "global",
+    "themes": ["gender", "technology", "network-culture"],
+    "axes": ["lab", "ethics", "habitat"],
+    "description": {
+      "en": "Critical and experimental framework at the intersection of gender and technics.",
+      "es": "Marco critico y experimental en la interseccion entre genero y tecnicas."
+    }
+  },
+  {
+    "id": "governance-of-ai-paper",
+    "title": "Governing AI for Humanity",
+    "type": "paper",
+    "author_or_source": "UNESCO Recommendation",
+    "year": "2021",
+    "url": "https://unesdoc.unesco.org/ark:/48223/pf0000381137",
+    "region": "global",
+    "themes": ["policy", "human-rights", "ai-governance"],
+    "axes": ["ethics", "lab"],
+    "description": {
+      "en": "Policy framework for rights-based AI governance.",
+      "es": "Marco de politica para gobernanza de IA basada en derechos."
+    }
+  },
+  {
+    "id": "platform-cooperativism-paper",
+    "title": "Platform Cooperativism",
+    "type": "paper",
+    "author_or_source": "Trebor Scholz",
+    "year": "2016",
+    "url": "https://en.wikipedia.org/wiki/Platform_cooperative",
+    "region": "global",
+    "themes": ["cooperatives", "platforms", "ownership"],
+    "axes": ["habitat", "ethics", "lab"],
+    "description": {
+      "en": "Model for democratic ownership of digital platforms.",
+      "es": "Modelo para propiedad democratica de plataformas digitales."
+    }
+  },
+  {
+    "id": "critical-making-paper",
+    "title": "Critical Making",
+    "type": "paper",
+    "author_or_source": "Matt Ratto",
+    "year": "2011",
+    "url": "https://doi.org/10.1111/j.1467-8659.2011.01849.x",
+    "region": "north-america",
+    "themes": ["making", "reflection", "prototype"],
+    "axes": ["lab", "ethics"],
+    "description": {
+      "en": "Combines material prototyping with critical reflection.",
+      "es": "Combina prototipado material con reflexion critica."
+    }
+  },
+  {
+    "id": "exocapitalism-no-limits",
+    "title": "Exocapitalism: Economies with Absolutely No Limits",
+    "type": "book",
+    "author_or_source": "Marek Poliks; Roberto Alonso Trillo",
+    "year": "2025",
+    "url": "https://openlibrary.org/works/OL44945626W/Exocapitalism",
+    "region": "global",
+    "themes": ["capital", "platform-economy", "finance", "infrastructure"],
+    "axes": ["habitat", "lab", "ethics"],
+    "description": {
+      "en": "Contemporary analysis of platform capital, arbitrage systems, and post-labor economic dynamics.",
+      "es": "Analisis contemporaneo del capital de plataformas, sistemas de arbitraje y dinamicas economicas post-laborales."
+    }
+  },
+  {
+    "id": "sovereign-individual",
+    "title": "The Sovereign Individual",
+    "type": "book",
+    "author_or_source": "James Dale Davidson; William Rees-Mogg",
+    "year": "1997",
+    "url": "https://en.wikipedia.org/wiki/The_Sovereign_Individual",
+    "region": "global",
+    "themes": ["state", "digital-economy", "governance", "individual-sovereignty"],
+    "axes": ["habitat", "ethics", "cosmotechnics"],
+    "description": {
+      "en": "Forecast on digital networks, monetary change, and the shifting balance between state power and individuals.",
+      "es": "Pronostico sobre redes digitales, cambio monetario y el desplazamiento del poder entre Estado e individuos."
+    }
+  }
+]

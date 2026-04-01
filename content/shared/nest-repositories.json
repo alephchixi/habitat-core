@@ -1,0 +1,14 @@
+[
+  {
+    "id": "repo-skill-creator-anthropic",
+    "type": "skill",
+    "name": "skill-creator",
+    "creator": "anthropic",
+    "repository": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+    "description": {
+      "en": "Create and optimize agent skills",
+      "es": "Crear y optimizar skills de agentes"
+    },
+    "updated_at": "2026-04-01"
+  }
+]

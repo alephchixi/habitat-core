@@ -1,0 +1,107 @@
+.header {
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: var(--bg);
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-sm) var(--space-lg);
+  max-width: 1440px;
+  margin: 0 auto;
+  gap: var(--space-md);
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-family: var(--font-mono);
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.logoMark {
+  width: 1.9rem;
+  height: 1.9rem;
+  flex: 0 0 auto;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  flex-wrap: wrap;
+}
+
+.navLink {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  padding: var(--space-xs) var(--space-sm);
+  border: 1px solid transparent;
+  border-radius: 2px;
+  opacity: var(--op-tertiary);
+  transition: opacity var(--duration-fast) ease, border-color var(--duration-fast) ease;
+  text-decoration: none;
+  white-space: nowrap;
+  text-transform: lowercase;
+}
+
+.navLink:hover {
+  opacity: 1;
+}
+
+.navLinkActive {
+  opacity: 1;
+  border-color: var(--border);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.langToggle {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  padding: var(--space-xs) var(--space-sm);
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  opacity: var(--op-ui);
+  transition: opacity var(--duration-fast) ease;
+  text-decoration: none;
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.langToggle:hover {
+  opacity: 1;
+}
+
+/* Responsive: collapse nav on mobile */
+@media (max-width: 768px) {
+  .inner {
+    flex-wrap: wrap;
+    padding: var(--space-sm);
+  }
+  .nav {
+    order: 3;
+    width: 100%;
+    justify-content: flex-start;
+    padding-top: var(--space-xs);
+    border-top: 1px solid var(--border);
+    margin-top: var(--space-xs);
+  }
+}

@@ -1,0 +1,13 @@
+.toggle {
+  font-size: 1.25rem;
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  opacity: var(--op-ui);
+  transition: opacity var(--duration-fast) ease;
+}
+.toggle:hover { opacity: 1; }

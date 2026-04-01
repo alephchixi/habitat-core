@@ -1,0 +1,82 @@
+[
+  {
+    "id": "guest-author",
+    "title": {
+      "en": "Invited author pathway",
+      "es": "Ruta de autor invitado"
+    },
+    "description": {
+      "en": "For independent researchers, writers, and practitioners who want to publish with HABITAT editorial review.",
+      "es": "Para investigadorxs, escritorxs y practicantes que quieren publicar con revision editorial de HABITAT."
+    },
+    "requirements": [
+      {
+        "en": "300-500 word pitch with one primary axis.",
+        "es": "Pitch de 300-500 palabras con un eje principal."
+      },
+      {
+        "en": "At least two verifiable references.",
+        "es": "Al menos dos referencias verificables."
+      },
+      {
+        "en": "Bilingual publication commitment (EN/ES) with editorial support.",
+        "es": "Compromiso de publicacion bilingue (EN/ES) con soporte editorial."
+      }
+    ],
+    "stages": [
+      {
+        "en": "Intake and scope review",
+        "es": "Intake y revision de alcance"
+      },
+      {
+        "en": "Draft + peer editorial pass",
+        "es": "Borrador + pase editorial de pares"
+      },
+      {
+        "en": "Publication in Journal or Observatory",
+        "es": "Publicacion en Journal u Observatory"
+      }
+    ],
+    "contact_email": "dev@alephchixi.xyz"
+  },
+  {
+    "id": "alliance",
+    "title": {
+      "en": "Alliance pathway",
+      "es": "Ruta de alianza"
+    },
+    "description": {
+      "en": "For collectives, labs, schools, and organizations that want collaborative publications, workshops, or research exchanges.",
+      "es": "Para colectivos, labs, escuelas y organizaciones que quieran publicaciones colaborativas, talleres o intercambios de investigacion."
+    },
+    "requirements": [
+      {
+        "en": "Collaboration brief with goals, timeline, and expected outputs.",
+        "es": "Brief de colaboracion con objetivos, cronograma y entregables esperados."
+      },
+      {
+        "en": "Named liaison and communication channel.",
+        "es": "Persona enlace nombrada y canal de comunicacion."
+      },
+      {
+        "en": "Shared governance agreement for attribution and publication policy.",
+        "es": "Acuerdo de gobernanza compartida para atribucion y politica de publicacion."
+      }
+    ],
+    "stages": [
+      {
+        "en": "Initial fit assessment",
+        "es": "Evaluacion inicial de encaje"
+      },
+      {
+        "en": "Pilot output (article, lab note, or workshop)",
+        "es": "Output piloto (articulo, nota de lab o taller)"
+      },
+      {
+        "en": "Long-term collaboration review",
+        "es": "Revision de colaboracion de largo plazo"
+      }
+    ],
+    "contact_email": "alliances@habitat.md"
+  }
+]

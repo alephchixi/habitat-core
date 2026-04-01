@@ -1,0 +1,26 @@
+[
+  {
+    "id": "open-call-2026q2",
+    "title": {
+      "en": "Open call: Situated cybernetic essays",
+      "es": "Convocatoria abierta: Ensayos ciberneticos situados"
+    },
+    "description": {
+      "en": "We are accepting bilingual essays, notes, and field observations on cybernetic habitat, local infrastructures, and decolonial technical practice.",
+      "es": "Estamos recibiendo ensayos bilingues, notas y observaciones de campo sobre habitat cibernetico, infraestructuras locales y practica tecnica decolonial."
+    },
+    "deadline": "2026-06-30",
+    "status": "open",
+    "submission_email": "dev@alephchixi.xyz",
+    "references": [
+      {
+        "label": "Contributor style guide",
+        "url": "https://www.markdownguide.org/basic-syntax/"
+      },
+      {
+        "label": "Creative Commons licenses",
+        "url": "https://creativecommons.org/licenses/"
+      }
+    ]
+  }
+]

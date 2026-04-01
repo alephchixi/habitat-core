@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dossier-infrastructure-001",
+    "author": "don hermes",
+    "title": {
+      "en": "Dossier 001: Situated Infrastructure",
+      "es": "Dossier 001: Infraestructura Situada"
+    },
+    "description": {
+      "en": "Editorial bundle on local compute, commoning practices, and governance of technical systems.",
+      "es": "Paquete editorial sobre computo local, practicas de comun y gobernanza de sistemas tecnicos."
+    },
+    "status": "published",
+    "theme": "infrastructure",
+    "item_ids": [
+      "infrastructural-commoning-concept",
+      "design-justice",
+      "platform-cooperativism-paper",
+      "governance-of-ai-paper"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+.footnote {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  line-height: 1.5;
+  margin-bottom: var(--space-sm);
+  padding-top: var(--space-xs);
+  border-top: 1px dotted var(--border);
+  opacity: var(--op-secondary);
+}
+
+.anchor {
+  font-weight: bold;
+  opacity: var(--op-primary);
+}

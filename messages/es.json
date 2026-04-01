@@ -1,0 +1,90 @@
+{
+  "site": {
+    "name": "HABITAT.md",
+    "tagline": "una revista-nido observatorio del nuevo hábitat cibernético",
+    "description": "Un portal editorial, crítico y experimental dedicado a explorar el hábitat cibernético contemporáneo desde perspectivas éticas, ecológicas, espirituales, cosmotécnicas y decoloniales."
+  },
+  "nav": {
+    "journal": "Journal",
+    "resources": "Enlaces",
+    "nest": "Nido",
+    "contact": "Contacto",
+    "about": "Acerca de",
+    "latam": "LatAm",
+    "authors": "Autores",
+    "library": "Biblioteca",
+    "search": "Buscar…"
+  },
+  "footer": {
+    "tagline": "revista-nido observatorio del nuevo hábitat cibernético",
+    "location": "Guarne, Antioquia",
+    "rss": "Feed RSS",
+    "manifesto": "Manifiesto",
+    "rights": "© {year} HABITAT.md"
+  },
+  "axes": {
+    "habitat": "Hábitat",
+    "ethics": "Ética",
+    "ecology": "Ecología",
+    "spirit": "Espíritu",
+    "cosmotechnics": "Cosmotécnica",
+    "lab": "Nido"
+  },
+  "common": {
+    "readMore": "Leer más",
+    "seeAll": "Ver todo",
+    "readingTime": "{minutes} min de lectura",
+    "published": "Publicado",
+    "updated": "Actualizado",
+    "draft": "Borrador",
+    "review": "En revisión",
+    "by": "por",
+    "filterAll": "Todos",
+    "noResults": "No se encontraron resultados.",
+    "backToHome": "Volver al inicio",
+    "language": "Idioma",
+    "theme": "Tema"
+  },
+  "home": {
+    "stats": {
+      "articles": "Artículos",
+      "authors": "Autores",
+      "axes": "Ejes",
+      "languages": "Idiomas"
+    },
+    "featured": "Destacado",
+    "recent": "Publicaciones recientes",
+    "activity": "Actividad",
+    "seeAllJournal": "Ver todo en Journal",
+    "seeAllActivity": "Ver toda la actividad"
+  },
+  "about": {
+    "title": "Acerca de / Manifiesto",
+    "subtitle": "HABITAT.md como infraestructura editorial"
+  },
+  "journal": {
+    "title": "Journal",
+    "subtitle": "Todas las publicaciones"
+  },
+  "resources": {
+    "title": "Enlaces / Directorio Expandido",
+    "subtitle": "Enlaces que recomendamos",
+    "categories": {
+      "herramientas": "Herramientas",
+      "editoriales": "Editoriales",
+      "portales": "Portales",
+      "plataformas": "Plataformas",
+      "habitat": "Hábitat"
+    }
+  },
+  "authors": {
+    "title": "Autores",
+    "subtitle": "Colaboradores y voces editoriales"
+  },
+  "errors": {
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe o ha sido movida.",
+    "error": "Algo salió mal",
+    "errorDescription": "Ocurrió un error inesperado. Por favor intenta de nuevo."
+  }
+}

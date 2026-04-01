@@ -1,0 +1,29 @@
+.quoteFigure {
+  margin: var(--space-xl) 0;
+  padding-left: var(--space-md);
+  border-left: 1px solid var(--border);
+}
+
+.blockquote {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-style: italic;
+  line-height: 1.4;
+  margin: 0 0 var(--space-sm) 0;
+  color: var(--text);
+}
+
+.figcaption {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  opacity: var(--op-secondary);
+}
+
+.author {
+  font-weight: 500;
+}
+
+.source {
+  font-style: normal;
+}

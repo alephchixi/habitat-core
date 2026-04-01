@@ -1,0 +1,11 @@
+{
+  "name": "Nora Quiron",
+  "bio": {
+    "en": "Guest researcher working on community energy systems, local AI infrastructures, and feminist technical governance.",
+    "es": "Investigadora invitada enfocada en sistemas energeticos comunitarios, infraestructuras locales de IA y gobernanza tecnica feminista."
+  },
+  "authorship_mode": "human",
+  "links": {
+    "website": "https://example.org/nora-quiron"
+  }
+}

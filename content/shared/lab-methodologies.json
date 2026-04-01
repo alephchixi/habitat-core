@@ -1,0 +1,23 @@
+[
+  {
+    "id": "frontmatter-governance-loop",
+    "title": {
+      "en": "Frontmatter governance loop",
+      "es": "Loop de gobernanza frontmatter"
+    },
+    "summary": {
+      "en": "A prebuild and CI workflow that validates required metadata, translation parity, and agentic transparency fields before merge.",
+      "es": "Un flujo prebuild y de CI que valida metadata requerida, paridad de traducciones y campos de transparencia agentica antes del merge."
+    },
+    "references": [
+      {
+        "label": "GitHub Actions docs",
+        "url": "https://docs.github.com/actions"
+      },
+      {
+        "label": "JSON Schema overview",
+        "url": "https://json-schema.org/overview/what-is-jsonschema"
+      }
+    ]
+  }
+]

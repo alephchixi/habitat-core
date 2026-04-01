@@ -1,0 +1,90 @@
+{
+  "site": {
+    "name": "HABITAT.md",
+    "tagline": "a journal-nest observatory of the new cybernetic habitat",
+    "description": "A critical editorial portal exploring the contemporary cybernetic habitat through ethical, ecological, spiritual, cosmotechnical, and decolonial perspectives."
+  },
+  "nav": {
+    "journal": "Journal",
+    "resources": "Links",
+    "nest": "Nest",
+    "library": "Library",
+    "contact": "Contact",
+    "about": "About",
+    "latam": "LatAm",
+    "authors": "Authors",
+    "search": "Search…"
+  },
+  "footer": {
+    "tagline": "journal-nest observatory of the new cybernetic habitat",
+    "location": "Guarne, Antioquia",
+    "rss": "RSS Feed",
+    "manifesto": "Manifesto",
+    "rights": "© {year} HABITAT.md"
+  },
+  "axes": {
+    "habitat": "Habitat",
+    "ethics": "Ethics",
+    "ecology": "Ecology",
+    "spirit": "Spirit",
+    "cosmotechnics": "Cosmotechnics",
+    "lab": "Nest"
+  },
+  "common": {
+    "readMore": "Read more",
+    "seeAll": "See all",
+    "readingTime": "{minutes} min read",
+    "published": "Published",
+    "updated": "Updated",
+    "draft": "Draft",
+    "review": "In review",
+    "by": "by",
+    "filterAll": "All",
+    "noResults": "No results found.",
+    "backToHome": "Back to home",
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "home": {
+    "stats": {
+      "articles": "Articles",
+      "authors": "Authors",
+      "axes": "Axes",
+      "languages": "Languages"
+    },
+    "featured": "Featured",
+    "recent": "Recent Publications",
+    "activity": "Activity",
+    "seeAllJournal": "See all in Journal",
+    "seeAllActivity": "See all activity"
+  },
+  "about": {
+    "title": "About / Manifesto",
+    "subtitle": "HABITAT.md as editorial infrastructure"
+  },
+  "journal": {
+    "title": "Journal",
+    "subtitle": "All publications"
+  },
+  "resources": {
+    "title": "Links / Expanded Directory",
+    "subtitle": "Links we recommend",
+    "categories": {
+      "herramientas": "Tools",
+      "editoriales": "Publishers",
+      "portales": "Portals",
+      "plataformas": "Platforms",
+      "habitat": "Habitat"
+    }
+  },
+  "authors": {
+    "title": "Authors",
+    "subtitle": "Contributors and editorial voices"
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "notFoundDescription": "The page you're looking for doesn't exist or has been moved.",
+    "error": "Something went wrong",
+    "errorDescription": "An unexpected error occurred. Please try again."
+  }
+}

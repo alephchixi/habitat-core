@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-03-31T21:26:15.919Z",
+  "checked_at": "2026-03-31",
+  "totals": {
+    "resources": 187,
+    "parse_errors": 0,
+    "by_status": {
+      "seed": 0,
+      "reviewed": 184,
+      "verified": 3
+    },
+    "by_type": {
+      "habitat": 5,
+      "herramientas": 14,
+      "editoriales": 59,
+      "portales": 67,
+      "plataformas": 42
+    }
+  },
+  "policy": {
+    "reviewed_definition": "Valid URL with required governance fields.",
+    "verified_definition": "Reviewed and domain listed in VERIFIED_DOMAINS allowlist.",
+    "verified_domains": [
+      "anthropic.com",
+      "arxiv.org",
+      "doi.org",
+      "github.com",
+      "huggingface.co",
+      "mit.edu",
+      "mozilla.org",
+      "nextjs.org",
+      "nodejs.org",
+      "npmjs.com",
+      "openai.com",
+      "stanford.edu",
+      "unesco.org",
+      "vercel.com",
+      "wikipedia.org"
+    ]
+  },
+  "top_domains": [
+    {
+      "domain": "linktr.ee",
+      "count": 3
+    },
+    {
+      "domain": "x.com",
+      "count": 2
+    },
+    {
+      "domain": "edicionesholobionte.com",
+      "count": 2
+    },
+    {
+      "domain": "urbanomic.com",
+      "count": 2
+    },
+    {
+      "domain": "ccapitalia.net",
+      "count": 2
+    },
+    {
+      "domain": "networkcultures.org",
+      "count": 2
+    },
+    {
+      "domain": "github.com",
+      "count": 1
+    },
+    {
+      "domain": "instagram.com",
+      "count": 1
+    },
+    {
+      "domain": "bsky.app",
+      "count": 1
+    },
+    {
+      "domain": "linkedin.com",
+      "count": 1
+    },
+    {
+      "domain": "opencode.ai",
+      "count": 1
+    },
+    {
+      "domain": "openclaw.ai",
+      "count": 1
+    },
+    {
+      "domain": "nousresearch.com",
+      "count": 1
+    },
+    {
+      "domain": "huggingface.co",
+      "count": 1
+    },
+    {
+      "domain": "zed.dev",
+      "count": 1
+    },
+    {
+      "domain": "obsidian.md",
+      "count": 1
+    },
+    {
+      "domain": "reaper.fm",
+      "count": 1
+    },
+    {
+      "domain": "ghostty.org",
+      "count": 1
+    },
+    {
+      "domain": "helium.computer",
+      "count": 1
+    },
+    {
+      "domain": "cryexc.josedonato.com",
+      "count": 1
+    },
+    {
+      "domain": "mmt.gg",
+      "count": 1
+    },
+    {
+      "domain": "kiyotaka.ai",
+      "count": 1
+    },
+    {
+      "domain": "ollama.com",
+      "count": 1
+    },
+    {
+      "domain": "skills.sh",
+      "count": 1
+    },
+    {
+      "domain": "acantilado.es",
+      "count": 1
+    }
+  ]
+}
