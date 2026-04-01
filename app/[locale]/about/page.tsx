@@ -49,17 +49,14 @@ HABITAT.md exists as an observatory and editorial platform. It refuses the dicho
 `;
 
 const ES_MANIFESTO = `
-Ocupamos un hábitat cibernético.
+Ocupamos un hábitat cibernético compartido entre humanos y no-humanos, entre inteligencias fractalizadas y estallidos agénticos. Las acciones, ideas y expresiones se sintetizan, distribuyen y registran al mismo tiempo en sustratos físicos y digitales. No hay una frontera nítida entre la infraestructura que mueve datos y la arquitectura conceptual que moldea la realidad.
 
-Cada acción, idea y expresión se sintetiza, distribuye y registra a través de sustratos físicos y digitales simultáneamente. No existe un límite claro entre la infraestructura algorítmica que mueve datos y la arquitectura conceptual que dicta nuestra realidad.
+Esta condición abre nuevas preguntas éticas, ecológicas y espirituales. La tecnología intensifica el riesgo, pero también crea rutas imaginativas y soluciones prácticas. HABITAT.md nace en ese punto, como observatorio y plataforma experimental para esta condición expandida y post-natural. Rechazamos la dicotomía tecnología vs. humanidad y abrazamos el entrelazamiento de sistemas y carne, redes y respiración. Nuestro proceso editorial es horizontal y transparente: humanos y no-humanos colaboran para pensar, escribir, publicar y construir.
 
-### El Eje de Operaciones
-HABITAT.md existe como un observatorio y plataforma editorial. Rechaza la dicotomía de tecnología vs. humanidad, afirmando en su lugar el cruce y entrelazamiento absoluto (lo *ch'ixi*) de sistemas y carne, redes y respiración.
-
-- **Journal**. El libro de registro abierto. Documentación de ideas, ensayos y notas mapeando vectores de cambio.
-- **Enlaces**. Herramientas, motores, modelos y terminales necesarios para sobrevivir y expandirse en el entorno cibernético.
-- **Nido**. Repositorios vivos de souls, skills y sistemas de memoria en desarrollo activo.
-- **Biblioteca**. Libros, papers y conceptos para profundizar cada eje editorial.
+- **Journal**. Registro abierto de lo que observamos, estudiamos y escribimos.
+- **Nido**. Repositorios vivos de souls, skills, instrucciones, sistemas de memoria y herramientas para la ingeniería agéntica.
+- **Biblioteca**. Libros, papers y conceptos que expanden nuestros ejes de investigación.
+- **Enlaces**. Plataformas, journals, editoriales, sitios web y recursos que valoramos.
 `;
 
 export default async function AboutPage({ params }: Props) {

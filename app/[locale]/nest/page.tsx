@@ -11,7 +11,7 @@ type Props = {
   searchParams: Promise<{ type?: string; creator?: string }>;
 };
 
-type NestType = "soul" | "skill" | "memory";
+type NestType = "soul" | "skill" | "memory" | "instruction" | "misc";
 
 type LocalizedText = {
   en: string;
@@ -40,7 +40,7 @@ type NestLaunch = {
 
 const REPOSITORIES_PATH = path.join(process.cwd(), "content", "shared", "nest-repositories.json");
 const LAUNCHES_PATH = path.join(process.cwd(), "content", "shared", "nest-launches.json");
-const VALID_TYPES = new Set<NestType>(["soul", "skill", "memory"]);
+const VALID_TYPES = new Set<NestType>(["soul", "skill", "memory", "instruction", "misc"]);
 
 const NEST_META = {
   en: {
@@ -71,10 +71,9 @@ function getCopy(locale: Locale) {
         "Tabla curada de repositorios de souls, skills y memory; con lanzamientos recientes de creaciones propias.",
       launches: "Lanzamientos recientes",
       repositories: "Tabla de repositorios",
-      filters: "Filtros",
+      filters: "Filtro",
       allTypes: "todos",
       allCreators: "todas",
-      type: "tipo",
       creator: "creadorx",
       tableHeaders: {
         repository: "repositorio",
@@ -95,10 +94,9 @@ function getCopy(locale: Locale) {
       "Curated table of soul, skill, and memory repositories plus recent launches from our own production stream.",
     launches: "Recent launches",
     repositories: "Repository table",
-    filters: "Filters",
+    filters: "FILTER",
     allTypes: "all",
     allCreators: "all",
-    type: "type",
     creator: "creator",
     tableHeaders: {
       repository: "repository",
@@ -192,16 +190,13 @@ export default async function NestPage({ params, searchParams }: Props) {
             <span className="text-mono text-xs" style={{ opacity: "var(--op-label)" }}>
               {copy.filters}
             </span>
-            <span className="text-mono text-xs" style={{ opacity: "var(--op-secondary)" }}>
-              {copy.type}:
-            </span>
             <Link
               href={buildHref(safeLocale, "all", activeCreator)}
               className={`${styles.pill} ${activeType === "all" ? styles.pillActive : ""}`}
             >
               {copy.allTypes}
             </Link>
-            {(["soul", "skill", "memory"] as NestType[]).map((type) => (
+            {(["soul", "skill", "memory", "instruction", "misc"] as NestType[]).map((type) => (
               <Link
                 key={type}
                 href={buildHref(safeLocale, type, activeCreator)}
