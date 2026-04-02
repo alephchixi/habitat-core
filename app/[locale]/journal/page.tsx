@@ -57,9 +57,6 @@ export default async function JournalPage({ params, searchParams }: Props) {
       <p className="page-label" style={{ marginBottom: "var(--space-sm)" }}>
         ({t("title")})
       </p>
-      <h1 className="page-description" style={{ fontWeight: 400, marginBottom: "var(--space-2xl)" }}>
-        {t("subtitle")}
-      </h1>
 
       <ClientSearch initialData={contents} locale={safeLocale} initialType={query.type} />
     </div>

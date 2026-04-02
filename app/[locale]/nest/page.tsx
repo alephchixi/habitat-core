@@ -161,7 +161,6 @@ export default async function NestPage({ params, searchParams }: Props) {
   return (
     <div className={styles.page}>
       <p className="page-label">{copy.label}</p>
-      <h1 className={`page-description ${styles.title}`}>{copy.title}</h1>
       <p className={styles.subtitle}>{copy.subtitle}</p>
 
       <section className={styles.section}>

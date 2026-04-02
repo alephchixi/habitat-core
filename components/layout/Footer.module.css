@@ -21,6 +21,19 @@
   text-align: right;
 }
 
+.openSource {
+  opacity: var(--op-secondary);
+}
+
+.openSourceLink {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.openSourceLink:hover {
+  opacity: 1;
+}
+
 .credit {
   opacity: var(--op-secondary);
 }

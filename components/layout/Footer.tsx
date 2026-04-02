@@ -5,7 +5,17 @@ export function Footer() {
     <footer className={styles.footer}>
       <div className={styles.inner}>
         <div className={styles.col}>
-          <span className="text-mono text-xs">2026</span>
+          <p className={`text-mono text-xs ${styles.openSource}`}>
+            <a
+              href="https://github.com/alephchixi/habitat-core"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.openSourceLink}
+            >
+              open source
+            </a>{" "}
+            2026
+          </p>
         </div>
         <div className={`${styles.col} ${styles.colEnd}`}>
           <p className={`text-mono text-xs ${styles.credit}`}>

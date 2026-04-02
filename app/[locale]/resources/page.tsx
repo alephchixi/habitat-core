@@ -83,10 +83,6 @@ export default async function ResourcesPage({ params, searchParams }: Props) {
       <p className="page-label" style={{ marginBottom: "var(--space-sm)" }}>
         ({t("title")})
       </p>
-      
-      <h1 className="page-description" style={{ fontWeight: 400, marginBottom: "var(--space-2xl)" }}>
-        {t("subtitle")}
-      </h1>
 
       <div style={{ display: "grid", gap: "var(--space-sm)", marginBottom: "var(--space-md)" }}>
         <FilterBar

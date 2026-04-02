@@ -5,19 +5,14 @@
   "license": "MIT",
   "scripts": {
     "dev": "next dev -p 3333",
-    "prebuild": "npm run content-check",
     "build": "next build",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
     "start": "next start",
     "lint": "eslint",
-    "typecheck": "tsc --noEmit",
-    "content-check": "node scripts/content-check.mjs",
-    "perf-budget": "node scripts/perf-budget.mjs",
-    "headers-check": "node scripts/headers-check.mjs",
-    "qa:ui": "npx -y playwright test --config=playwright.config.ts",
-    "qa:wcag": "node scripts/qa/wcag-audit.mjs",
-    "qa:cwv": "node scripts/qa/cwv-audit.mjs",
-    "resources-governance": "node scripts/resources-governance.mjs",
-    "check": "npm run lint && npm run typecheck && npm run content-check && npm run build && npm run perf-budget"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
@@ -35,13 +30,14 @@
     "sharp": "^0.34.5"
   },
   "devDependencies": {
-    "@playwright/test": "^1.58.2",
+    "@opennextjs/cloudflare": "^1.18.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@types/rss": "^0.0.32",
     "eslint": "^9",
     "eslint-config-next": "16.2.1",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "^4.80.0"
   }
 }

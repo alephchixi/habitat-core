@@ -75,10 +75,6 @@ export default async function HomePage({ params }: Props) {
 
   return (
     <div className={`${styles.root} home`}>
-      <h1 className={`page-description ${styles.title}`}>
-        {safeLocale === "es" ? "Panorama editorial" : "Editorial overview"}
-      </h1>
-
       <section className={styles.activitySection}>
         <div className={styles.activityHeader}>
           <h2 className={`text-mono ${styles.activityTitle}`}>

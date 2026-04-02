@@ -1,7 +1,6 @@
-import crypto from "node:crypto";
 import createMiddleware from "next-intl/middleware";
-import { routing } from "./i18n/routing";
 import { NextRequest, NextResponse } from "next/server";
+import { routing } from "./i18n/routing";
 
 const intlMiddleware = createMiddleware(routing);
 
@@ -73,6 +72,18 @@ function buildCspHeader(nonce: string): string {
   return normalizePolicy(directives.join("; "));
 }
 
+function createNonce(): string {
+  const bytes = new Uint8Array(16);
+  crypto.getRandomValues(bytes);
+
+  let binary = "";
+  for (const byte of bytes) {
+    binary += String.fromCharCode(byte);
+  }
+
+  return btoa(binary).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/g, "");
+}
+
 function applySecurityHeaders(response: NextResponse, csp: string, nonce: string): NextResponse {
   response.headers.set("Content-Security-Policy", csp);
   response.headers.set("x-nonce", nonce);
@@ -95,8 +106,8 @@ function runIntlMiddleware(req: NextRequest, requestHeaders: Headers): NextRespo
   return intlMiddleware(requestWithNonce);
 }
 
-export function proxy(req: NextRequest) {
-  const nonce = Buffer.from(crypto.randomUUID()).toString("base64url");
+export function middleware(req: NextRequest) {
+  const nonce = createNonce();
   const csp = buildCspHeader(nonce);
   const requestHeaders = createSecuredRequestHeaders(req, csp, nonce);
 
@@ -105,7 +116,6 @@ export function proxy(req: NextRequest) {
 
 export const config = {
   matcher: [
-    // Match all localized app routes except non-page assets and generic API routes.
     "/((?!api|_next|_vercel|.*\\..*).*)",
   ],
 };
