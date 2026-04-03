@@ -17,8 +17,6 @@
 # next.js
 /.next/
 /out/
-/.open-next/
-/.wrangler/
 
 # production
 /build
@@ -37,7 +35,6 @@ content/shared/*.ndjson
 
 # env files (can opt-in for committing if needed)
 .env*
-.dev.vars
 
 # vercel
 .vercel
