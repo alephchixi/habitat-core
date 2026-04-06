@@ -1,14 +1,15 @@
 # HABITAT Core
 
-`habitat-core` is the public, minimal codebase for HABITAT.md.
+`habitat-core` is the public, open, minimal codebase for HABITAT.md.
 
 It is intended for:
 
+- media/journal lab/repository/library
 - local deployment by default
 - open-source forking
 - adapting the architecture to new projects
 
-It excludes private runtime secrets and real editorial MDX content.
+It excludes private runtime secrets and editorial MDX content.
 
 ## Local development
 
