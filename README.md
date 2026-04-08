@@ -1,6 +1,6 @@
 # HABITAT Core
 
-`habitat-core` is the public, open, minimal codebase for HABITAT.md.
+`habitat-core` is the public, open, minimal codebase for HABITAT.md, the same used in https://habitatmd.net.
 
 It is intended for:
 
