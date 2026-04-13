@@ -28,18 +28,7 @@ type NestRepository = {
   updated_at: string;
 };
 
-type NestLaunch = {
-  id: string;
-  type: "soul" | "skill";
-  title: LocalizedText;
-  creator: string;
-  repository: string;
-  date: string;
-  summary: LocalizedText;
-};
-
 const REPOSITORIES_PATH = path.join(process.cwd(), "content", "shared", "nest-repositories.json");
-const LAUNCHES_PATH = path.join(process.cwd(), "content", "shared", "nest-launches.json");
 const VALID_TYPES = new Set<NestType>(["soul", "skill", "memory", "instruction", "misc"]);
 
 const NEST_META = {
@@ -68,8 +57,7 @@ function getCopy(locale: Locale) {
       label: "(NIDO)",
       title: "Nido: repositorios vivos",
       subtitle:
-        "Tabla curada de repositorios de souls, skills y memory; con lanzamientos recientes de creaciones propias.",
-      launches: "Lanzamientos recientes",
+        "Tabla curada de repositorios para explorar aproximaciones filosoficas, poeticas y creativas a la ingenieria agentica.",
       repositories: "Tabla de repositorios",
       filters: "Filtro",
       allTypes: "todos",
@@ -91,8 +79,7 @@ function getCopy(locale: Locale) {
     label: "(NEST)",
     title: "Nest: live repositories",
     subtitle:
-      "Curated table of soul, skill, and memory repositories plus recent launches from our own production stream.",
-    launches: "Recent launches",
+      "Curated table of repositories for philosophical, poetic, and creative approaches to agentic engineering.",
     repositories: "Repository table",
     filters: "FILTER",
     allTypes: "all",
@@ -143,9 +130,6 @@ export default async function NestPage({ params, searchParams }: Props) {
   const repositories = readJsonFile<NestRepository>(REPOSITORIES_PATH).sort((a, b) =>
     b.updated_at.localeCompare(a.updated_at)
   );
-  const launches = readJsonFile<NestLaunch>(LAUNCHES_PATH)
-    .filter((item) => item.creator === "eme" || item.creator === "habitat")
-    .sort((a, b) => b.date.localeCompare(a.date));
 
   const creators = Array.from(new Set(repositories.map((item) => item.creator))).sort();
 
@@ -162,26 +146,6 @@ export default async function NestPage({ params, searchParams }: Props) {
     <div className={styles.page}>
       <p className="page-label">{copy.label}</p>
       <p className={styles.subtitle}>{copy.subtitle}</p>
-
-      <section className={styles.section}>
-        <h2 className={styles.sectionTitle}>{copy.launches}</h2>
-        <div className={styles.launchGrid}>
-          {launches.map((launch) => (
-            <article key={launch.id} className={styles.launchCard}>
-              <div className={styles.launchMeta}>
-                <span className={styles.launchType}>{launch.type}</span>
-                <span>@{launch.creator}</span>
-                <time dateTime={launch.date}>{launch.date}</time>
-              </div>
-              <h3 className={styles.launchTitle}>{launch.title[safeLocale]}</h3>
-              <p className={styles.launchSummary}>{launch.summary[safeLocale]}</p>
-              <a href={launch.repository} target="_blank" rel="noopener noreferrer" className="link-subtle text-mono text-xs">
-                {copy.openRepo}
-              </a>
-            </article>
-          ))}
-        </div>
-      </section>
 
       <section className={styles.section}>
         <div className={styles.controls}>

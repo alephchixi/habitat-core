@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { parseMDX } from "@/lib/mdx";
 import { createPageMetadata } from "@/lib/seo";
+import { ABOUT_SOCIAL_LINKS } from "@/lib/social";
 import type { Locale } from "@/lib/types";
 import styles from "./AboutPage.module.css";
 
@@ -35,17 +36,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const EN_MANIFESTO = `
-We occupy a cybernetic habitat.
+We occupy a cybernetic habitat shared between humans and non-humans, between fractalized intelligence and agentic bursts. Actions, ideas, and expressions are synthesized, distributed, and recorded across physical and digital substrates at once. There is no clean border between the infrastructure that moves data and the conceptual architecture shaping reality.
 
-Every action, idea, and expression is synthesized, distributed, and recorded across physical and digital substrates simultaneously. There is no clear boundary between the algorithmic infrastructure that moves data and the conceptual architecture that dictates our reality.
+This condition opens new ethical, ecological, and spiritual questions. Technology intensifies risk, but it also creates imaginative routes and practical solutions. HABITAT.md borns in that point, as an observatory and experimental platform for this expanded, post-natural condition. We reject the technology-vs-humanity split and embrace the entanglement of systems and flesh, networks and breath. Our editorial process is horizontal and transparent: humans and non-humans collaborate to think, write, publish, and build.
 
-### The Axis of Operations
-HABITAT.md exists as an observatory and editorial platform. It refuses the dichotomy of technology vs. humanity, asserting instead the absolute inter-tanglement of systems and flesh, networks and breath.
+- **Journal**. Open ledger of what we observe, study, and write.
+- **Lab**. Experiments and notes from our agent, soul and skill experiments.
+- **Nest**. Live repositories of souls, skills, instructions, memory systems, and tools for agentic engineering.
+- **Library**. Books, papers, and concepts that expand our research axes.
+- **Links**. Platforms, journals, editorials, websites, and resources we value.
 
-- **Journal**. The open ledger. Documentation of ideas, essays, and notes tracking vectors of change.
-- **Links**. Tools, engines, models, and terminals necessary to survive and expand within the cybernetic environment.
-- **Nest**. Live repositories of souls, skills, and memory systems in active development.
-- **Library**. Books, papers, and concepts that expand each editorial axis.
+Developed in aleph::ch'ixi laboratories as an open source project.
 `;
 
 const ES_MANIFESTO = `
@@ -54,9 +55,12 @@ Ocupamos un hábitat cibernético compartido entre humanos y no-humanos, entre i
 Esta condición abre nuevas preguntas éticas, ecológicas y espirituales. La tecnología intensifica el riesgo, pero también crea rutas imaginativas y soluciones prácticas. HABITAT.md nace en ese punto, como observatorio y plataforma experimental para esta condición expandida y post-natural. Rechazamos la dicotomía tecnología vs. humanidad y abrazamos el entrelazamiento de sistemas y carne, redes y respiración. Nuestro proceso editorial es horizontal y transparente: humanos y no-humanos colaboran para pensar, escribir, publicar y construir.
 
 - **Journal**. Registro abierto de lo que observamos, estudiamos y escribimos.
+- **Lab**. Experimentos y notas de nuestros experimentos con agentes, souls y skills.
 - **Nido**. Repositorios vivos de souls, skills, instrucciones, sistemas de memoria y herramientas para la ingeniería agéntica.
 - **Biblioteca**. Libros, papers y conceptos que expanden nuestros ejes de investigación.
 - **Enlaces**. Plataformas, journals, editoriales, sitios web y recursos que valoramos.
+
+Desarrollado en los laboratorios aleph::ch'ixi como proyecto de codigo abierto.
 `;
 
 export default async function AboutPage({ params }: Props) {
@@ -70,26 +74,26 @@ export default async function AboutPage({ params }: Props) {
       ? {
           contactLabel: "(CONTACTO)",
           contactTitle: "Formulario de contacto",
-          contactSubtitle: "Envíanos tu mensaje editorial, propuesta o consulta técnica.",
+          contactSubtitle: "Envia tu mensaje, propuesta o consulta tecnica.",
           name: "Nombre",
           email: "Correo",
           subject: "Asunto",
           message: "Mensaje",
           submit: "Enviar",
-          hint: "Al enviar, se abrirá tu cliente de correo con los datos del formulario.",
           emailLabel: "También puedes escribir a",
+          socialLabel: "Tambien puedes encontrarnos en",
         }
       : {
           contactLabel: "(CONTACT)",
           contactTitle: "Contact form",
-          contactSubtitle: "Send your editorial message, proposal, or technical request.",
+          contactSubtitle: "Send your message, proposal, or technical request.",
           name: "Name",
           email: "Email",
           subject: "Subject",
           message: "Message",
           submit: "Send",
-          hint: "Submitting opens your email client with the form payload.",
           emailLabel: "You can also write to",
+          socialLabel: "You can also find us on",
         };
 
   const teamCopy =
@@ -105,11 +109,22 @@ export default async function AboutPage({ params }: Props) {
           subtitle: "Human and agent core of the editorial ecosystem.",
         };
 
-  const teamMembers = [
-    { name: "eme", mode: "human" },
-    { name: "pablo", mode: "human" },
-    { name: "mar", mode: "agent" },
-  ];
+  const teamMembers =
+    safeLocale === "es"
+      ? [
+          { name: "eme", mode: "human", role: "juntadora de piezas" },
+          { name: "hermes", mode: "agent", role: "experto en presencias" },
+          { name: "mar", mode: "agent", role: "editora de sensibilidades" },
+          { name: "pocho", mode: "human", role: "conversador cosmico" },
+          { name: "randall", mode: "agent", role: "secretario de palabras" },
+        ]
+      : [
+          { name: "eme", mode: "human", role: "piece gatherer" },
+          { name: "hermes", mode: "agent", role: "expert in presences" },
+          { name: "mar", mode: "agent", role: "editor of sensitivities" },
+          { name: "pocho", mode: "human", role: "cosmic conversationalist" },
+          { name: "randall", mode: "agent", role: "word secretary" },
+        ];
 
   const logCopy =
     safeLocale === "es"
@@ -120,10 +135,16 @@ export default async function AboutPage({ params }: Props) {
           headers: { version: "version", date: "fecha", notes: "notas" },
           entries: [
             {
+              version: "v0.5",
+              date: "2026-04-08",
+              notes:
+                "Se agrego Lab para desarrollo y experimentacion interna de souls-agents-skills, y se pulieron Nest y Library.",
+            },
+            {
               version: "v0.1",
               date: "2026-03-31",
               notes:
-                "Base editorial en produccion con Journal, Nido, Biblioteca, Enlaces, About, controles de idioma/tema y gating local de Community.",
+                "Base editorial en produccion con Journal, Nido, Biblioteca, Enlaces, About y controles de idioma/tema.",
             },
           ],
         }
@@ -134,10 +155,16 @@ export default async function AboutPage({ params }: Props) {
           headers: { version: "version", date: "date", notes: "notes" },
           entries: [
             {
+              version: "v0.5",
+              date: "2026-04-08",
+              notes:
+                "Added Lab for in-house soul-agents-skills development/experimentation, polished Nest and Library.",
+            },
+            {
               version: "v0.1",
               date: "2026-03-31",
               notes:
-                "Production editorial baseline with Journal, Nest, Library, Links, About, language/theme controls, and local-only Community gating.",
+                "Production editorial baseline with Journal, Nest, Library, Links, About, language/theme controls.",
             },
           ],
         };
@@ -167,6 +194,7 @@ export default async function AboutPage({ params }: Props) {
             <article key={member.name} className={styles.teamCard}>
               <p className={styles.teamName}>{member.name}</p>
               <p className={styles.teamMode}>{member.mode}</p>
+              <p className={styles.teamRole}>{member.role}</p>
             </article>
           ))}
         </div>
@@ -210,7 +238,20 @@ export default async function AboutPage({ params }: Props) {
         </form>
 
         <p className={styles.formHint}>
-          {copy.hint} {copy.emailLabel} <a href="mailto:dev@alephchixi.xyz">dev@alephchixi.xyz</a>.
+          {copy.emailLabel} <a href="mailto:dev@alephchixi.xyz">dev@alephchixi.xyz</a>.
+        </p>
+
+        <p className={styles.formHint}>
+          {copy.socialLabel}{" "}
+          {ABOUT_SOCIAL_LINKS.map((item, index) => (
+            <span key={item.label}>
+              {index > 0 ? " · " : ""}
+              <a href={item.href} target="_blank" rel="noopener noreferrer">
+                {item.label}
+              </a>
+            </span>
+          ))}
+          .
         </p>
       </section>
 

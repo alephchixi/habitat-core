@@ -6,6 +6,7 @@
   },
   "nav": {
     "journal": "Journal",
+    "lab": "Lab",
     "resources": "Enlaces",
     "nest": "Nido",
     "contact": "Contacto",
@@ -28,7 +29,7 @@
     "ecology": "Ecología",
     "spirit": "Espíritu",
     "cosmotechnics": "Cosmotécnica",
-    "lab": "Nido"
+    "lab": "Lab"
   },
   "common": {
     "readMore": "Leer más",

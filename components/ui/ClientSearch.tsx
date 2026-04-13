@@ -55,7 +55,6 @@ export function ClientSearch({
     searchPlaceholder: isEs
       ? "Buscar por titulo, tags, ejes o tipo..."
       : "Search by title, tags, axes, or type...",
-    keyboardHint: isEs ? "Cmd/Ctrl+K" : "Cmd/Ctrl+K",
     filters: isEs ? "FILTROS" : "FILTERS",
     modes: isEs ? "VISTA" : "VIEW",
     tags: isEs ? "TAGS" : "TAGS",
@@ -237,7 +236,6 @@ export function ClientSearch({
           className={styles.input}
           aria-label="Search content"
         />
-        <div className={styles.keyboardHint}>{copy.keyboardHint}</div>
       </div>
 
       <div className={styles.resultsMeta}>

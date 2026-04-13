@@ -7,12 +7,15 @@
   margin-bottom: var(--space-lg);
 }
 
+.statsSection {
+  margin-top: var(--space-2xl);
+}
+
 .statsGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 1px;
   background: var(--border);
-  margin-top: var(--space-2xl);
 }
 
 .statCard {
@@ -54,51 +57,69 @@
   opacity: var(--op-secondary);
 }
 
-.digestList {
-  display: flex;
-  flex-direction: column;
-  margin-top: var(--space-lg);
+.developmentsSection {
+  margin-top: var(--space-2xl);
 }
 
-.digestItem {
-  padding: var(--space-md) var(--space-xs);
-  border-bottom: 1px dotted var(--border);
+.kernelHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: var(--space-xs);
+  margin-bottom: var(--space-lg);
+}
+
+.kernelTitle {
+  font-size: 0.75rem;
+  opacity: var(--op-label);
+  margin: 0;
+}
+
+.developmentsList {
+  display: grid;
+  gap: 1px;
+  background: var(--border);
+}
+
+.developmentItem {
   display: flex;
   justify-content: space-between;
   gap: var(--space-md);
-  text-decoration: none;
+  align-items: flex-start;
+  padding: var(--space-md);
+  background: var(--bg);
   color: inherit;
+  text-decoration: none;
 }
 
-.digestTitle {
+.developmentTitle {
   font-family: var(--font-body);
-  font-size: 1.125rem;
+  font-size: 1.05rem;
+  margin-bottom: var(--space-xs);
 }
 
-.digestMeta {
-  display: flex;
-  gap: var(--space-md);
-  align-items: center;
+.developmentSummary {
+  opacity: var(--op-secondary);
+}
+
+.developmentMeta {
+  display: grid;
+  gap: var(--space-xs);
+  justify-items: end;
   font-family: var(--font-mono);
   font-size: 0.75rem;
   opacity: var(--op-secondary);
-}
-
-.digestType {
-  padding: 0.125rem 0.375rem;
-  border: 1px solid var(--border);
-  border-radius: 2px;
-  text-transform: uppercase;
-  display: inline-block;
-}
-
-.digestEmpty {
-  opacity: var(--op-secondary);
-  padding: var(--space-md) 0;
+  white-space: nowrap;
 }
 
 @media (max-width: 768px) {
-  .digestItem {
+  .developmentItem {
     flex-direction: column;
+  }
+
+  .developmentMeta {
+    justify-items: start;
+    white-space: normal;
   }
 }

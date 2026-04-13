@@ -70,6 +70,10 @@
   opacity: var(--op-secondary);
 }
 
+.teamRole {
+  opacity: var(--op-secondary);
+}
+
 .contactSection {
   margin-top: var(--space-3xl);
   border-top: 1px solid var(--border);

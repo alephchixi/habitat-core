@@ -13,5 +13,20 @@
       "en": "Official Anthropic skill focused on creating, improving, and evaluating skills.",
       "es": "Skill oficial de Anthropic para crear, mejorar y evaluar skills."
     }
+  },
+  {
+    "id": "launch-chixi-skills-eme",
+    "type": "skill",
+    "title": {
+      "en": "Ch'ixi Skills",
+      "es": "Ch'ixi Skills"
+    },
+    "creator": "eme",
+    "repository": "https://github.com/alephchixi/chixi-skills",
+    "date": "2026-04-04",
+    "summary": {
+      "en": "Complete Ch'ixi skill set: agentic-tension, chixi-image, chixi-tension, lombriz, no-todo, pachakuti, qhipnayra, and taypi.",
+      "es": "Set completo de skills Ch'ixi: agentic-tension, chixi-image, chixi-tension, lombriz, no-todo, pachakuti, qhipnayra y taypi."
+    }
   }
 ]

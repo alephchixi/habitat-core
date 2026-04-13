@@ -12,6 +12,7 @@ const NAV_ITEMS = [
   { key: "nest", href: "/nest" },
   { key: "library", href: "/library" },
   { key: "resources", href: "/resources" },
+  { key: "lab", href: "/lab" },
   { key: "about", href: "/about" },
 ] as const;
 
